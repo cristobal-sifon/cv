@@ -17,8 +17,10 @@
 \hypersetup{colorlinks,
   linkcolor=blue,
   filecolor=blue,
-  urlcolor=black,
+  urlcolor=blue,
   citecolor=blue}
+
+% \pagestyle{empty}
 
 \newcommand\technical[2]{
   \noindent
@@ -47,8 +49,7 @@
 \flushright
 {\large E-mail: {\texttt sifon@astro.princeton.edu}\\
         Phone: +1 609 258 2303\\
-        \url{http://www.astro.princeton.edu/~sifon/}
-        \url{https://github.com/cristobal-sifon/}}
+        \url{http://www.astro.princeton.edu/~sifon/}}
 \end{minipage}
 \vspace{0.4cm}
 \hline
@@ -56,6 +57,18 @@
 \vspace{0.5cm}
 \noindent
 {\bf\Large Research Interests}\\
+% \vspace{0.05cm}
+% 
+% \noindent
+% I recently obtained my PhD from Leiden Observatory. The current focus of my 
+% research is to study the masses of galaxies in galaxy groups and clusters using 
+% weak gravitational lensing, with the aim of being able to test semi-analytic 
+% models of galaxy formation and hydrodynamical simulations. I have also been 
+% working on measuring galaxy cluster masses using the dynamics of their member 
+% galaxies, aiming to calibrate the Sunyaev-Zel'dovich effect as a cluster mass 
+% proxy. I am interested in the impact of intrinsic alignments on cosmic shear 
+% studies and on the physics of galaxy clusters in general. I am an active member of 
+% the Atacama Cosmology Telescope (ACT) and the Kilo-Degree Survey (KiDS).
 
 {\large
 I am an observational astrophysicist.
@@ -175,6 +188,35 @@ Jan.~2010 & B.Sc.~Astronomy, P.~Universidad Cat\'olica de Chile, Chile\\
 \end{table}
 
 
+% \pagebreak
+% \noindent
+% {\bf\Large Press Releases}\\
+% \vspace{-0.2cm}
+% 
+% \begin{table}[h!]
+% \begin{tabular}{l l}
+% Jul., 2013 & Science Feature Result on 
+% \href{http://issuu.com/geminifocus/docs/gf_0713?e=7451038/3860990}{GeminiFocus}, ``Dynamical 
+% Masses 
+% of Galaxy Clusters\\
+%            & Discovered with the Sunyaev-Zel/dovic Effect.'' See Refereed Paper \#9.\\
+% Mar., 2012 & Press release by
+%   \href{http://www.princeton.edu/main/news/archive/S33/21/69O40/index.xml?section=topstories}{
+%         Princeton University} on the first detection of the kinematic Sunyaev-\\
+%            & Zel'dovich effect made with a combination of data from ACT and the Baryon\\
+%            & Oscillations Spectroscopic Survey (BOSS). Also covered in a 
+% \href{http://physics.aps.org/articles/v5/81}{Physics Viewpoint}. See\\
+%            & Refereed Paper \#3.\\
+% 
+% Jan., 2012 & \href{http://www.eso.org/public/news/eso1203/}{ESO} and
+%              \href{http://chandra.si.edu/photo/2012/elgordo/}{Chandra} release on ``El Gordo,'' 
+% the
+%              most massive known galaxy cluster at\\
+%            & high redshift. See Refereed Paper \#1.
+% \end{tabular}
+% \end{table}
+
+
 \pagebreak
 
 \noindent
@@ -222,13 +264,13 @@ Jan.~2010 & B.Sc.~Astronomy, P.~Universidad Cat\'olica de Chile, Chile\\
 % \vspace{-0.2cm}
 
 \technical{Programming skills}
-          {I am an experienced python programmer, and I am also familiar with IRAF/PyRAF, C, FORTRAN and IDL (although the latter three rather vaguely). I have written {\tt pygmos}, a Python/PyRAF pipeline to reduce Gemini-GMOS spectra which is available at \url{http://www.astro.princeton.edu/\~sifon/pygmos/}. Other Python routines I have written are posted at my \texttt{github} page, \url{https://github.com/cristobal-sifon}.}
+          {I am an experienced python programmer, and I am also familiar with IRAF/PyRAF, C, FORTRAN and IDL (although the latter three rather vaguely). I have written {\tt pygmos}, a Python/PyRAF pipeline to reduce Gemini-GMOS spectra which is available at \url{http://www.strw.leidenuniv.nl/\~sifon/pygmos/}. Other Python routines I have written are posted at my homepage and at \url{https://github.com/cristobal-sifon}.}
 
 \vspace{0.1cm}
 \technical{Language skills}{Native Spanish, fluent English, basic Dutch.}
 
 \vspace{-0.2cm}
-\technical{Others}{I have served as a referee for A\&A, ApJ, and Nature Astronomy.}
+\technical{Others}{I have served as a referee for A\&A, ApJ and Nature Astronomy.}
 
 
 \vspace{0.4cm}
@@ -286,8 +328,6 @@ Dec.~2006 - Mar.~2007 & Lift operator at Sun Valley Resort, Sun Valley, ID.
 %%%%%%%%%% PUBLICATION LIST %%%%%%%%%%
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-
-%% Uncomment these two lines to get the publication list in the main pdf
 
 % \pagebreak
 % \input{Sifon_publications}
