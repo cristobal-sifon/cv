@@ -1,0 +1,23 @@
+WEAK-LENSING MASS CALIBRATION OF ACTPOL SUNYAEV-ZEL'DOVICH CLUSTERS WITH THE
+HYPER SUPRIME-CAM SURVEY
+
+Hironao Miyatake1,2,3,4, Nicholas Battaglia5,6,7, Matt Hilton8, Elinor Medezinski7, Atsushi 
+J. Nishizawa1,2,
+Surhud More4, Simone Aiola9, Neta Bahcall7, J. Richard Bond10, Erminia Calabrese11, Steve K. 
+Choi9, Mark
+J. Devlin12, Joanna Dunkley7,9, Rolando Dunner13, Brittany Fuzia14, Patricio Gallardo15, 
+Megan Gralla16,
+Matthew Hasselfield17,18, Mark Halpern19, Chiaki Hikage4, J. Colin Hill20,5, Adam D. 
+Hincks21, Renee
+Hlozek22, Kevin Huffenberger14, John P. Hughes23,5, Brian Koopman15, Arthur Kosowsky24, 
+Thibaut Louis25,c Maurin13,
+Satoshi Miyazaki29, Kavilan Moodley8, Ryoma Murata4,30, Sigurd Naess5, Laura Newburgh31, 
+Michael D.
+Niemack15, Takahiro Nishimichi4, Nobuhiro Okabe32,33, Masamune Oguri34,30,4, Ken Osato30, 
+Lyman Page9, Bruce
+Partridge35, Naomi Robertson36, Neelima Sehgal37, Blake Sherwin38,39, Masato Shirasaki29, 
+Jonathan Sievers40,
+Cristobal Sifon7, Sara Simon26, David N. Spergel5,7, Suzanne T. Staggs9, George Stein41,10, 
+Masahiro Takada4,
+Hy Trac27, Keiichi Umetsu42, Alex van Engelen10, Edward J. Wollack
+Mathew S. Madhavacheril7, Jeff McMahon26, Rachel Mandelbaum27, Tobias A. Marriage28, L

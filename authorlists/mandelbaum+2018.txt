@@ -1,0 +1,12 @@
+The first-year shear catalog of the Subaru Hyper
+Suprime-Cam SSP Survey
+
+Rachel Mandelbaum1, Hironao Miyatake2,3, Takashi Hamana4, Masamune
+Oguri5,6,3, Melanie Simet7,2, Robert Armstrong8, James Bosch8, Ryoma
+Murata3,6, Franc¸ois Lanusse1, Alexie Leauthaud9, Jean Coupon10, Surhud
+More3, Masahiro Takada3, Satoshi Miyazaki4, Joshua S. Speagle11,
+Masato Shirasaki4, Crist ´obal Sif ´on8, Song Huang3,9, Atsushi J.
+Nishizawa12, Elinor Medezinski8, Yuki Okura13,14, Nobuhiro Okabe15,16,
+Nicole Czakon17, Ryuichi Takahashi18, Will Coulton19, Chiaki Hikage3,
+Yutaka Komiyama4,20, Robert H. Lupton8, Michael A. Strauss8, Masayuki
+Tanaka4 and Yousuke Utsumi16

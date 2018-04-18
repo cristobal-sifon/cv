@@ -1,0 +1,96 @@
+THE ATACAMA COSMOLOGY TELESCOPE: THE TWO-SEASON ACTPOL
+SUNYAEV-ZEL’DOVICH EFFECT SELECTED CLUSTER CATALOG
+
+Matt Hilton,
+1
+Matthew Hasselfield,
+2, 3, 4
+Crist
+ ́
+obal Sif
+ ́
+on,
+4, 5
+Nicholas Battaglia,
+4, 6
+Simone Aiola,
+7
+V. Bharadwaj,
+1
+J. Richard Bond,
+8
+Steve K. Choi,
+7
+Devin Crichton,
+1, 9
+Rahul Datta,
+10, 11
+Mark J. Devlin,
+12
+Joanna Dunkley,
+4, 7
+Rolando D
+ ̈
+unner,
+13
+Patricio A. Gallardo,
+14
+Megan Gralla,
+15
+Adam D. Hincks,
+16
+Shuay-Pwu P. Ho,
+7
+Johannes Hubmayr,
+17
+Kevin M. Huffenberger,
+18
+John P. Hughes,
+19, 6
+Brian J. Koopman,
+14
+Arthur Kosowsky,
+20, 21
+Thibaut Louis,
+22, 23
+Mathew S. Madhavacheril,
+4
+Tobias A. Marriage,
+9
+Lo
+ ̈
+ıc Maurin,
+13
+Jeff McMahon,
+10
+Hironao Miyatake,
+24, 25, 26, 27
+Kavilan Moodley,
+1
+Sigurd Næss,
+6
+Federico Nati,
+12
+Michael D. Niemack,
+14
+Masamune Oguri,
+28, 29, 25
+Lyman A. Page,
+7
+Bruce Partridge,
+30
+Benjamin L. Schmitt,
+12
+Jon Sievers,
+31
+David N. Spergel,
+6, 4
+Suzanne T. Staggs,
+7
+Hy Trac,
+32
+Alexander van Engelen,
+8
+Eve M. Vavagiakis,
+14
+and Edward J. Wollack

@@ -1,0 +1,7 @@
+Galaxy Cluster Mass Reconstruction Project:
+II. Results for galaxy-based techniques with improved models
+
+L. Old1?, R. Wojtak2;3;4, G. A. Mamon5 R. A. Skibba6, F. R. Pearce1, D. Croton7, S. Bamford1,
+P. Behroozi8, R. de Carvalho9, J. C. Mu˜noz-Cuartas10, D. Gifford11, M. E. Gray1,
+A. von der Linden2;3;4, M.R. Merrifield1, S. I. Muldrew12, V. M¨uller13, R. J. Pearson14,
+T. J. Ponman14, E. Rozo15, E. Rykoff15, A. Saro16, T. Sepp17, C. Sif´on18 and E. Tempel

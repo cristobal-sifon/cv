@@ -1,0 +1,9 @@
+The masses of satellites in GAMA galaxy groups from 100 square
+degrees of KiDS weak lensing data
+
+Crist´obal Sif´on1?, Marcello Cacciato1, Henk Hoekstra1, Margot Brouwer1,
+Edo van Uitert2;3, Massimo Viola1, Ivan Baldry4, Sarah Brough5, Michael J. I. Brown6,
+Ami Choi7, Simon P. Driver8;9, Thomas Erben3, Aniello Grado10, Catherine Heymans7,
+Hendrik Hildebrandt3, Benjamin Joachimi2, Jelte T. A. de Jong1, Konrad Kuijken1,
+John McFarland11, Lance Miller12, Reiko Nakajima3, Nicola Napolitano, Peder Norberg13,
+Aaron S. G. Robotham8, Peter Schneider3, Gijs Verdoes Klein11

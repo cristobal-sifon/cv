@@ -1,0 +1,10 @@
+The Atacama Cosmology Telescope: Dynamical masses for 44
+SZ-selected galaxy clusters over 755 square degrees
+
+Crist´obal Sif´on1;18?, Nick Battaglia2, Felipe Menanteau3;4;18, Matthew Hasselfield2,
+L. Felipe Barrientos5, J. Richard Bond6, Devin Crichton7, Mark J. Devlin8,
+Rolando D¨unner5, Matt Hilton9, Adam D. Hincks10, Ren´ee Hlozek2,
+Kevin M. Huenberger11, John P. Hughes12;18, Leopoldo Infante5, Arthur Kosowsky13,
+Danica Marsden8, Tobias A. Marriage7, Kavilan Moodley9, Michael D. Niemack14,
+Lyman A. Page15, David N. Spergel2, Suzanne T. Staggs15, Hy Trac16,
+Edward J. Wollack

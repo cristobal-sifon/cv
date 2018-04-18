@@ -1,0 +1,10 @@
+Subaru weak-lensing measurement of a z=0.81 cluster discovered
+by the Atacama Cosmology Telescope Survey
+
+Hironao Miyatake1;2;3, Atsushi J. Nishizawa2, Masahiro Takada2, Rachel Mandelbaum3;4,
+Sogo Mineo1;2, Hiroaki Aihara1;2, David N. Spergel2;3, Steven J. Bickerton2;3,
+J. Richard Bond5, Amir Hajian5, Matt Hilton6;7, Adam D. Hincks5, John P. Hughes8,
+Leopoldo Infante9, Yen-Ting Lin10, Robert H. Lupton3, Tobias A. Marriage11,
+Danica Marsden12, Felipe Menanteau8, Satoshi Miyazaki13, Kavilan Moodley7,
+Michael D. Niemack14, Masamune Oguri2, Paul A. Price3, Erik D. Reese15,
+Crist´obal Sif´on9;16, Edward J. Wollack17, Naoki Yasuda

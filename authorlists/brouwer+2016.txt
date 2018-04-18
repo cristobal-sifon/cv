@@ -1,0 +1,13 @@
+Dependence of GAMA galaxy halo masses on the cosmic
+web environment from 100 square degrees of KiDS weak
+lensing data
+
+Margot M. Brouwer1?, Marcello Cacciato1, Andrej Dvornik1, Lizzie Eardley2,
+Catherine Heymans2, Henk Hoekstra1, Konrad Kuijken1, Tamsyn McNaught-Roberts3,
+Cristobal Sifon1, Massimo Viola1, Mehmet Alpaslan4, Maciej Bilicki1,
+Joss Bland-Hawthorn 5, Sarah Brough6, Ami Choi2, Simon P. Driver7;8,
+Thomas Erben9, Aniello Grado10, Hendrik Hildebrandt9, Benne W. Holwerda1,
+Andrew M. Hopkins 6, Jelte T. A. de Jong1, Jochen Liske11, John McFarland12,
+Reiko Nakajima9, Nicola R. Napolitano10 Peder Norberg3, John A. Peacock2,
+Mario Radovich10, Aaron S. G. Robotham7, Peter Schneider9, Gert Sikkema12,
+Edo van Uitert13, Gijs Verdoes Kleijn12

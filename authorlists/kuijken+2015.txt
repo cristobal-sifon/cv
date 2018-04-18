@@ -1,0 +1,10 @@
+Gravitational Lensing Analysis of the Kilo Degree Survey
+
+Konrad Kuijken1?, Catherine Heymans2, Hendrik Hildebrandt3, Reiko Nakajima3,
+Thomas Erben3, Jelte T.A. de Jong1, Massimo Viola1, Ami Choi2, Henk Hoekstra1,
+Lance Miller4, Edo van Uitert3;5, Alexandra Amon2, Chris Blake6, Margot Brouwer1,
+Axel Buddendiek3, Ian Fenech Conti7;8, Martin Eriksen1, Aniello Grado9,
+Joachim Harnois-Deraps10, Ewout Helmich1, Ricardo Herbonnet1, Nancy Irisarri1,
+Thomas Kitching11, Dominik Klaes3, Francesco Labarbera9, Nicola Napolitano9,
+Mario Radovich12, Peter Schneider3, Cristobal Sifon1, Gert Sikkema13, Patrick Simon3,
+Alexandru Tudorica3, Edwin Valentijn13, Gijs Verdoes Kleijn13, Ludovic van Waerbeke

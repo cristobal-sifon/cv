@@ -1,0 +1,15 @@
+The first and second data releases of the
+Kilo-Degree Survey
+
+Jelte T. A. de Jong1, Gijs A. Verdoes Kleijn2, Danny R. Boxhoorn2, Hugo Buddelmeijer2,
+Massimo Capaccioli3, Fedor Getman3, Aniello Grado3, Ewout Helmich1, Zhuoyi Huang3,
+ Nancy Irisarri1, Konrad H. Kuijken1, Francesco LaBarbera3, John P. McFarland2,
+ Nicola R. Napolitano3, Mario Radovich4, Gert Sikkema2, Edwin A. Valentijn2,
+ Kor G. Begeman2, Massimo Brescia3, Stefano Cavuoti3, Ami Choi5,
+Oliver-Mark Cordes6, Giovanni Covone7, Massimo Dall’Ora3, Hendrik Hildebrandt6,
+Giuseppe Longo7, Reiko Nakajima6, Maurizio Paolillo7, 8, Emanuella Puddu3, Agatino Rifatto3,
+ Crescenzo Tortora3, Edo van Uitert6, 9, Axel Buddendiek6, Joachim Harnois-Déraps10,
+ Thomas Erben6, Martin B. Eriksen1, Catherine Heymans5, Henk Hoekstra1,
+ Benjamin Joachimi9, Thomas D. Kitching11, Dominik Klaes6, Léon V. E. Koopmans2,
+ Fabian Köhlinger1, Nivya Roy7, Cristóbal Sifón1, Peter Schneider6, Will J. Sutherland12,
+ Massimo Viola1, Willem-Jan Vriend

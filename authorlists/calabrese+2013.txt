@@ -1,0 +1,9 @@
+Cosmological parameters from pre-planck cosmic microwave background measurements
+
+Erminia Calabrese,1 Rene´e A. Hlozek,2 Nick Battaglia,3 Elia S. Battistelli,4 J. Richard Bond,5 Jens Chluba,6
+Devin Crichton,6 Sudeep Das,7,8 Mark J. Devlin,9 Joanna Dunkley,1 Rolando Du¨nner,10 Marzieh Farhang,5,11
+Megan B. Gralla,6 Amir Hajian,5 Mark Halpern,12 Matthew Hasselfield,2,12 Adam D. Hincks,5
+Kent D. Irwin,13 Arthur Kosowsky,14 Thibaut Louis,1 Tobias A. Marriage,6,2,15 Kavilan Moodley,16
+Laura Newburgh,15 Michael D. Niemack,15,13,17 Michael R. Nolta,5 Lyman A. Page,15 Neelima Sehgal,18
+Blake D. Sherwin,15 Jonathan L. Sievers,15 Cristo´bal Sifo´n,19 David N. Spergel,2
+Suzanne T. Staggs,15 Eric R. Switzer,5 and Edward J. Wollack

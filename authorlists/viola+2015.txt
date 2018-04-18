@@ -1,0 +1,8 @@
+Dark matter halo properties of GAMA galaxy groups from 100
+square degrees of KiDS weak lensing data
+
+M. Viola1?, M. Cacciato1, M. Brouwer1, K. Kuijken1, H. Hoekstra1, P. Norberg2,
+A.S.G. Robotham3, E. van Uitert4;5, M. Alpaslan12, I.K. Baldry6, A. Choi7,
+J.T.A. de Jong1, S.P. Driver3;14, T. Erben5, A. Grado9, Alister W. Graham8, C. Heymans7,
+H. Hildebrandt5, A.M. Hopkins13, N. Irisarri1, B. Joachimi4, J. Loveday11,
+L. Miller10, R. Nakajima5, P. Schneider5, C. Sif´on1, G. Verdoes Kleijn15

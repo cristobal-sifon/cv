@@ -1,0 +1,9 @@
+The stellar-to-halo mass relation of GAMA galaxies from 100 square
+degrees of KiDS weak lensing data
+
+Edo van Uitert 1,2⋆, Marcello Cacciato3, Henk Hoekstra3, Margot Brouwer3, Crist´obal Sif´on3,
+Massimo Viola3, Ivan Baldry4, Joss Bland-Hawthorn5, Sarah Brough6, M. J. I. Brown7,
+Ami Choi8, Simon P. Driver9,10, Thomas Erben2, Catherine Heymans8, Hendrik Hildebrandt2,
+Benjamin Joachimi 1, Konrad Kuijken3, Jochen Liske11, Jon Loveday12, John McFarland13,
+Lance Miller14, Reiko Nakajima2, John Peacock8, Mario Radovich15, A. S. G. Robotham16,
+Peter Schneider2, Gert Sikkema13, Edward N. Taylor17, Gijs Verdoes Kleijn13

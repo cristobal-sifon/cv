@@ -1,0 +1,11 @@
+THE ATACAMA COSMOLOGY TELESCOPE: HIGH-RESOLUTION SUNYAEV–ZEL’DOVICH ARRAY
+OBSERVATIONS OF ACT SZE-SELECTED CLUSTERS FROM THE EQUATORIAL STRIP
+
+Erik D. Reese1, Tony Mroczkowski 1,23, Felipe Menanteau2, Matt Hilton3, Jonathan Sievers4, Paula Aguirre5,
+John William Appel6, Andrew J. Baker2, J. Richard Bond4, Sudeep Das6,7,8, Mark J. Devlin1, Simon R. Dicker1,
+Rolando D¨unner5, Thomas Essinger-Hileman6, Joseph W. Fowler8,9, Amir Hajian4,6,8, Mark Halpern10,
+Matthew Hasselfield10, J. Colin Hill8, Adam D. Hincks6, Kevin M. Huffenberger11, John P. Hughes2, Kent D. Irwin9,
+Jeff Klein1, Arthur Kosowsky12, Yen-Ting Lin13,14, Tobias A. Marriage8,15, Danica Marsden1, Kavilan Moodley16,
+Michael D. Niemack6,9, Michael R. Nolta4, Lyman A. Page6, Lucas Parker6, Bruce Partridge17, Felipe Rojas5,
+Neelima Sehgal18, Crist´obal Sif ´on5, David N. Spergel8, Suzanne T. Staggs6, Daniel S. Swetz1,9, Eric R. Switzer1,19,
+Robert Thornton1,20, Hy Trac21, and Edward J. Wollack

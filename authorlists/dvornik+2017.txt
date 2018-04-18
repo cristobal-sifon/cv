@@ -1,0 +1,9 @@
+A KiDS weak lensing analysis of assembly bias in GAMA galaxy
+groups
+
+Andrej Dvornik,1? Marcello Cacciato,1 Konrad Kuijken,1 Massimo Viola,1
+Henk Hoekstra,1 Reiko Nakajima,2 Edo van Uitert,3 Margot Brouwer,1 Ami Choi,7
+Thomas Erben,2 Ian Fenech Conti,4;5 Daniel J. Farrow,6 Ricardo Herbonnet,1
+Catherine Heymans,7 Hendrik Hildebrandt,2 Andrew. M. Hopkins,11 John McFarland,8
+Peder Norberg,10 Peter Schneider,2 Cristóbal Sifón,9 Edwin Valentijn,8 Lingyu 
+Wang8

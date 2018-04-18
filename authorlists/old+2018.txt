@@ -1,0 +1,8 @@
+Galaxy Cluster Mass Reconstruction Project:
+III. The impact of dynamical substructure on cluster mass estimates
+
+L. Old1?, R. Wojtak2;3;4, F. R. Pearce5, M. E. Gray5, G. A. Mamon6, C. Sif´on7;8, 
+E. Tempel9;10,
+A. Biviano11, H. K. C. Yee1, R. de Carvalho12, V. M¨uller 9, T. Sepp10, R. A. 
+Skibba13;14,
+D. Croton15, S. P. Bamford5, C. Power16;17, A. von der Linden18, A. Saro19

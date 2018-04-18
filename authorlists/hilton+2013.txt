@@ -1,0 +1,11 @@
+
+The Atacama Cosmology Telescope: the stellar content of galaxy clusters selected using the Sunyaev-Zel’dovich effect
+
+
+Matt Hilton,1;2? Matthew Hasselfield,3 Cristóbal Sifón,4 Andrew Baker,5
+L. Felipe Barrientos,6 Nicholas Battaglia,7;8 J. Richard Bond,8 Devin Crichton,9
+Mark J. Devlin,10 Megan Gralla,9 Kent D. Irwin,11 Amir Hajian,8 Adam D. Hincks,8
+John P. Hughes,5 Leopoldo Infante,6 Yen-Ting Lin,12 Tobias A. Marriage,9
+Danica Marsden,13 Felipe Menanteau,5 Kavilan Moodley,2 Mike R. Nolta,8
+Lyman A. Page,14 Erik D. Reese,10 Jon Sievers,14;8 David N. Spergel15 and
+Edward J. Wollack

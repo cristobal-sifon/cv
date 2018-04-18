@@ -1,0 +1,10 @@
+Multi-wavelength scaling relations in galaxy groups: a detailed
+comparison of GAMA and KiDS observations to BAHAMAS
+simulations
+
+Arthur Jakobs1;2, Massimo Viola2, Ian McCarthy3, Ludovic van Waerbeke1?,
+Henk Hoekstra2, Aaron Robotham4, Gary Hinshaw1, Alireza Hojjati1, Hideki 
+Tanimura1,
+Tilman Tr¨oster1, Ivan Baldry3, Catherine Heymans5, Hendrik Hildebrandt6,
+Konrad Kuijken2, Peder Norberg7, Joop Schaye2, Crist´obal Sifon8, Edo van Uitert9,
+Edwin Valentijn10, Gijs Verdoes Kleijn10, Lingyu Wang

@@ -1,0 +1,10 @@
+WEAK-LENSING MASS CALIBRATION OF THE ATACAMA COSMOLOGY TELESCOPE EQUATORIAL
+SUNYAEV-ZELDOVICH CLUSTER SAMPLE WITH THE CANADA-FRANCE-HAWAII TELESCOPE STRIPE
+82 SURVEY
+
+N. Battaglia1, A. Leauthaud2, H. Miyatake1;2;3, M. Hasselfield1, M. B. Gralla4;5, R. Allison6, J. R. Bond7, E.
+Calabrese1;6, D. Crichton4, M. J. Devlin8, J. Dunkley6, R. unner9, T. Erben10, S. Ferrara1, M. Halpern11, M.
+Hilton12, J. C. Hill13, A. D. Hincks11, R. Hlozek1, K. M. Huffenberger14, J. P. Hughes15, J. P. Kneib16, A.
+Kosowsky17, M. Makler18, T. A. Marriage4, F. Menanteau19;20, L. Miller21, K. Moodley12, B. Moraes22;23, M.
+D. Niemack24, L. Page25, H. Shan26, N. Sehgal27, B. D. Sherwin28, J. L. Sievers29, C. Sifon30, D. N. Spergel1, S.
+T. Staggs25, J. Taylor31, R. Thornton32, L. van Waerbeke11, E. J. Wollack

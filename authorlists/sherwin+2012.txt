@@ -1,0 +1,8 @@
+The Atacama Cosmology Telescope: Cross-Correlation of CMB Lensing and Quasars
+
+Blake D. Sherwin,1, ∗ Sudeep Das,2, 1, 3 Amir Hajian,4 Graeme Addison,5 J. Richard Bond,4 Devin
+Crichton,6 Mark J. Devlin,7 Joanna Dunkley,5 Megan B. Gralla,6 Mark Halpern,8 J. Colin Hill,3
+Adam D. Hincks,4 John P. Hughes,9 Kevin Huffenberger,10 Ren´ee Hlozek,3 Arthur Kosowsky,11
+Thibaut Louis,5 Tobias A. Marriage,6, 3 Danica Marsden,12 Felipe Menanteau,9 Kavilan Moodley,13
+Michael D. Niemack,14, 1 Lyman A. Page,1 Erik D. Reese,7 Neelima Sehgal,3 Jon Sievers,1
+Crist´obal Sif´on,15 David N. Spergel,3 Suzanne T. Staggs,1 Eric R. Switzer,16, 1 and Ed Wollack

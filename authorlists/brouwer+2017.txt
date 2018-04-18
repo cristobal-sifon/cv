@@ -1,0 +1,9 @@
+First test of Verlinde's theory of Emergent Gravity using
+Weak Gravitational Lensing measurements
+
+Margot M. Brouwer1?, Manus R. Visser2, Andrej Dvornik1, Henk Hoekstra1,
+Konrad Kuijken1, Edwin A. Valentijn3, Maciej Bilicki1, Chris Blake4,
+Sarah Brough5, Hugo Buddelmeijer1, Thomas Erben6, Catherine Heymans7,
+Hendrik Hildebrandt6, Benne W. Holwerda1, Andrew M. Hopkins5, Dominik Klaes6,
+Jochen Liske8, Jon Loveday9, John McFarland3, Reiko Nakajima6,
+Cristobal Sifon1, Edward N. Taylor
