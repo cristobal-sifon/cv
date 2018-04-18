@@ -12,8 +12,6 @@
     urlcolor=blue
     }
 
-\def\myself{\textbf{\color{red} C.~Sif\'on}}
-
 \def\aap{A\&A}
 \def\apj{ApJ}
 \def\apjs{ApJS}
@@ -27,19 +25,16 @@
 \def\prl{Phys.\ Rev.\ Letters}
 \def\ssr{Space Sci.\ Rev.}
 
+\newcommand{\myself}{\textbf{\color{red} C.~Sif\'on}}
 \newcommand{\accepted}[1]{accepted for publication in #1}
-\newcommand{\submitted}[1]{submitted to #1}
+\newcommand{\etal}[1]{et al.\ (#1 co-authors),}
 \newcommand{\paper}[1]{\textbf{``#1''}}
+\newcommand{\submitted}[1]{submitted to #1}
+\renewcommand{\title}[1]{\noindent\textbf{\huge #1}\\}
 % arXiv links
 \newcommand{\arxiv}[1]
     {\href{https://arxiv.org/abs/#1}{\texttt{\color{magenta}[arXiv]}}}
-%{
-%    \newcommand{\yr}{\StrLeft{#1}{2}}
-%    \message{\yr}
-%    %\if\ifnum#1>
-%}
 
-% \pagestyle{empty}
 
 \begin{document}
 
@@ -54,11 +49,10 @@
 %%% or use the file $HOME/Documents/papers/authorlist.py to get the author list formatted
 %%% this way from the pdf
 
-\noindent
-{\bf\huge Publication list}\\
+\title{Publication list}
 
 \noindent
-I have co-authored 51 scientific articles intended for peer-reviewed publication,
+I have co-authored 52 scientific articles intended for peer-reviewed publication,
 including 7 first-author papers. They have been cited more than 1,700 times and 
 have an $h$-index of 22, with more than 180 citations on my first-author papers. 
 They also include three companion reviews on galaxy alignments written for a 
@@ -69,13 +63,9 @@ an invited `News \& Views' article for Nature Astronomy, accessible
 \href{https://www.nature.com/articles/s41550-017-0181}{here}.
 
 
-\vspace{0.4cm}
-\noindent
-{\bf\Large First-Author Papers}\\
+\section*{First-Author Papers}
 
-\newcommand{\etal}[1]{et al.\ (#1 co-authors),}
 
-\vspace{-0.5cm}
 \begin{etaremune}
 
 \item
@@ -152,11 +142,8 @@ Massive Sunyaev-Zel'dovich Effect Selected Galaxy Clusters},
 %%%%%%%%%%%%%%%%%%%%%
 
 
-\vspace{0.4cm}
-\noindent
-{\bf\Large Major Contributor Papers}\\
+\section*{Major Contributor Papers}
 
-\vspace{-0.5cm}
 \begin{etaremune}
 
 \item
@@ -164,6 +151,7 @@ M.~Hilton, M.~Hasselfield, \myself, \etal{43}
 \paper{The Atacama Cosmology Telescope: The Two-Season ACTPol Sunyaev-Zel'dovich 
 Effect Selected Cluster Catalog},
 2018, \href{http://adsabs.harvard.edu/abs/2018ApJS..235...20H}{\apjs, 235, 20}
+\arxiv{1709.05600}
 
 \item
 J.~G.~Albert, \myself, A.~Stroe, F.~Mernier, H.~T.~Intema, H.~J.~A.~R\"ottgering, 
@@ -258,12 +246,16 @@ Merging Cluster at Redshift 0.87},
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 
-\vspace{0.4cm}
-\noindent
-{\bf\Large Contributing Author Papers}\\
+\section*{Contributing Author Papers}
 
-\vspace{-0.5cm}
 \begin{etaremune}
+
+\item
+H.~Miyatake \etal{58}
+\paper{Weak-Lensing Mass Calibration of ACTPol Sunyaev-Zel'dovich Clusters with the Hyper 
+Suprime-Cam Survey}
+2018, \href{http://adsabs.harvard.edu/abs/2018arXiv1804.05873}{arXiv:1804.05873},
+\submitted{\apj}
 
 \item
 A.~Dvornik \etal{14}
@@ -271,7 +263,7 @@ A.~Dvornik \etal{14}
 % T.~Erben, D.~J.~Farrow, C.~Heymans, H.~Hildebrandt, \myself, L.~Wang,
 \paper{Unveiling Galaxy Bias Via the Halo Model, KiDS and GAMA},
 2018, \href{http://adsabs.harvard.edu/abs/2018arXiv180200734D}{arXiv:1802.00734},
-\submitted{\mnras}
+\accepted{\mnras}
 
 \item
 A.~Jakobs \etal{20}
@@ -298,8 +290,8 @@ Survey},
 E.~Medezinski \etal{16}
 \paper{Source Selection for Cluster Weak Lensing Measurements in the Hyper Suprime-Cam
 Survey},
-2017, \href{http://adsabs.harvard.edu/abs/2017arXiv170600427M}{arXiv:1706.00427},
-\accepted{\pasj}
+2018, \href{http://adsabs.harvard.edu/abs/2018PASJ...70...30M}{\pasj, 70, 30}
+\arxiv{1706.00427}
 
 \item
 J.~F.~Wu, P.~Aguirre, A.~J.~Baker, M.~J.~Devlin, M.~Hilton, J.~P.~Hughes,
@@ -314,7 +306,7 @@ E.~Medezinski \etal{12}
 % \myself, D.~N.~Spergel, I-N.~Chiu, Y.-T.~Lin, N.~Bahcall, Y.~Komiyama,
 \paper{Planck Sunyaev-Zel'dovich Cluster Mass Calibration using Hyper 
 Suprime-Cam Weak Lensing},
-2018, \href{http://adsabs.harvard.edu/abs/2018PASJ...70S..28M}{\pasj, 70, S28}
+2018, \href{http://adsabs.harvard.edu/abs/2018PASJ...70S..28M}{\pasj, 70, 28}
 \arxiv{1706.00434}
 
 \item
@@ -325,7 +317,7 @@ R.~Mandelbaum \etal{27}
 % R.~Takahashi, W.~Coulton, C.~Hikage, Y.~Komiyama, R.~H.~Lupton, M.~A.~Strauss,
 % T.~Y.~Utsumi,
 \paper{The First-Year Shear Catalog of the Subaru Hyper Suprime-Cam SSP Survey},
-2018, \href{http://adsabs.harvard.edu/abs/2018PASJ...70S..25M}{\pasj, 70, S25}
+2018, \href{http://adsabs.harvard.edu/abs/2018PASJ...70S..25M}{\pasj, 70, 25}
 \arxiv{1705.06745}
 
 \item
@@ -411,7 +403,7 @@ K.~Knowles \etal{21}
 % A.~D.~Hincks, R.~Hlozek, J.~P.~Hughes, R.~R.~Lindner, T.~A.~Marriage, F.~Menanteau, K.~Moodley, 
 % M.~D.~Niemack, E.~D.~Reese, J.~Sievers, \myself, R.~Srianand, E.~J.~Wollack,
 \paper{A Giant Radio Halo in a Low-Mass SZ-Selected Galaxy Cluster: ACT-CL~J0256.5+0006},
-2016, \href{http://adsabs.harvard.edu/adsabs/abs/2016MNRAS.459.4240K}{\mnras, 459, 4240}
+2016, \href{http://adsabs.harvard.edu/abs/2016MNRAS.459.4240K}{\mnras, 459, 4240}
 \arxiv{1506.01547}
 
 \item
