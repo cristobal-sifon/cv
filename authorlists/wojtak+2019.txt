@@ -1,0 +1,10 @@
+Galaxy Cluster Mass Reconstruction Project - IV.
+Understanding the effects of imperfect membership on
+cluster mass estimation
+
+R. Wojtak1,2,3 L. Old4, G. A. Mamon5, F. R. Pearce6, R. de Carvalho7, C. 
+Sif´on8,
+M. E. Gray6, R. A. Skibba9,10, D. Croton11, S. Bamford6, D. Gifford12,
+A. von der Linden13, J. C. Mu˜noz-Cuartas14, V. M¨uller15, R. J. Pearson16, E. 
+Rozo3,17,
+E. Rykoff3, A. Saro18, T. Sepp19 and E. Tempel
