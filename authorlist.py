@@ -14,7 +14,7 @@ file = open(sys.argv[1])
 
 # words that should not be capitalized
 secondary = (
-    'a', 'about', 'and', 'around', 'between', 'by', 'for', 'from',
+    'a', 'about', 'and', 'around', 'between', 'by', 'for', 'from', 'in',
     'int', 'of', 'on', 'over', 'the', 'through', 'to', 'via', 'with', 'z')
 # acronyms that should stay all upper case
 acronyms = (
@@ -32,7 +32,7 @@ print(title.split()[0].capitalize(), end=' ')
 for word in title.split()[1:]:
     if word.lower() in secondary:
         print(word.lower(), end=' ')
-    elif word in acronyms:
+    elif word.upper() in acronyms:
         print(word, end=' ')
     else:
         words = [w.capitalize() for w in word.split('-')]
