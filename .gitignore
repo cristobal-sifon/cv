@@ -5,3 +5,5 @@
 *.sty
 *.backup
 journals.tex
+
+.DS_Store
