@@ -1,44 +1,8 @@
 \documentclass[11pt]{article}
 
-\usepackage{bm}
-\usepackage{enumerate}
-\usepackage{etaremune}
-% \usepackage{fullpage}
-\usepackage{graphicx}
-\usepackage{hyperref}
+\input{header}
 
-\addtolength{\oddsidemargin}{-.875in}
-\addtolength{\evensidemargin}{-.875in}
-\addtolength{\textwidth}{1.75in}
-\addtolength{\topmargin}{-1in}
-\addtolength{\textheight}{2in}
-
-% For links of references
-\hypersetup{colorlinks,
-  linkcolor=blue,
-  filecolor=blue,
-  urlcolor=blue,
-  citecolor=blue}
-
-\newcommand\technical[2]{
-  \noindent
-%  \begin{minipage}{0.03\linewidth}
-%    \null
-%  \end{minipage}
-%  \begin{minipage}{0.97\linewidth}
-    {\large\bf #1:} #2\\
-%  \end{minipage}\\
-  }
-\newcommand\sectitle[1]{
-  \vspace{0.5cm}
-  \noindent
-  \textbf{\large #1}\\
-  \vspace{-0.2cm}
-}
-\newcommand\itemdate[1]{\textbf{[#1]}}
-\newcommand\itemdates[2]{\textbf{[#1 -- #2]}}
-\newcommand\email[1]{\href{mailto:#1}{\texttt{#1}}}
-
+\usepackage{chancery}
 
 \begin{document}
 
@@ -56,7 +20,7 @@
 \begin{minipage}[b]{0.49\linewidth}
 \flushright
 {\large E-mail: {\texttt sifon@astro.princeton.edu}\\
-        Phone: +1 609 258 0026\\
+        Phone: +1 (609) 258 0026\\
         \url{http://www.astro.princeton.edu/~sifon/}
         \url{https://github.com/cristobal-sifon/}}
 \end{minipage}
@@ -64,18 +28,11 @@
 \hline
 
 
+
 \sectitle{Research Interests}
 
 %{\large
-I am an observational astrophysicist. My research focuses on galaxy 
-cluster physics including observable--mass scaling relations for cosmological 
-analyses, brightest cluster galaxies, the mass content of cluster galaxies and 
-diffuse radio emission. I am also interested in intrinsic galaxy alignments, both 
-as contaminants for cosmic shear and as a physical mechanism in its own right. I 
-use various tools and techniques to study these phenomena, including weak 
-gravitational lensing, spectroscopy, and the exploitation of optical surveys in 
-general. I have presented my work at various conferences, workshops and seminars 
-in Chile, Europe and the US.
+I am an observational astrophysicist. My research focuses on galaxy cluster physics including observable--mass scaling relations for cosmological analyses, brightest cluster galaxies, the mass content of cluster galaxies and diffuse radio emission. I am also interested in intrinsic galaxy alignments, both as contaminants for cosmic shear and as a physical mechanism in their own right. I use various tools and techniques to study these phenomena, including weak gravitational lensing, spectroscopy, the exploitation of optical surveys in general, and most recently analyses involving hydrodynamical simulations. %I have presented my work at various conferences, workshops and seminars in Chile, Europe and the US.
 
 \vspace{0.5cm}
 \technical{Collaborations}
@@ -90,33 +47,52 @@ in Chile, Europe and the US.
 }
 
 
-\vspace{-0.5cm}
 \sectitle{Employment and Education}
 
 \noindent
 \itemdates{2016}{Present} Postdoctoral Research Associate, Princeton University, USA\\
-\itemdates{2012}{2016} -- Ph.D.~Astrophysics, Universiteit Leiden, The Netherlands\\
-\itemdates{2010}{2012} -- M.Sc.~Astrophysics, P.~Universidad Cat\'olica de Chile, Chile\\
-\itemdates{2005}{2010} -- B.Sc.~Astronomy, P.~Universidad Cat\'olica de Chile, Chile
+\itemdates{2012}{2016} Ph.D.~Astrophysics, Universiteit Leiden, The Netherlands\\
+\itemdates{2010}{2012} M.Sc.~Astrophysics, P.~Universidad Cat\'olica de Chile, Chile\\
+\itemdates{2005}{2010} B.Sc.~Astronomy, P.~Universidad Cat\'olica de Chile, Chile
 
 
-%\vspace{0.5cm}
-%\technical{Student Mentoring Experience}
+\subsectitle{Internships}
 
-%{I am mentoring a PhD student from Oxford University (UK) working with Prof.\ Joanna Dunkley on weak lensing calibration of the total masses of galaxy clusters selected with the Sunyaev-Zel'dovich effect by the Atacama Cosmology Telescope, using the Kilo-Degree Survey, since the second semester of 2017. I will also mentor a Princeton undergraduate for a summer research project during June-August 2018 looking at cluster galaxy alignments with the Hyper Suprime-Cam survey.}
+\noindent
+\itemdate{2011} Science Intern, Gemini South Observatory\\
+\itemdate{2011} Internship, Rutgers University\\
+\itemdate{2009} Science Intern, Gemini South Observatory (\emph{B.Sc.\ thesis})\\
 
-%\vspace{-0.5cm}
-\sectitle{Student Mentoring}
+%%%
+
+\sectitle{Teaching \& Mentoring}
+
+\subsectitle{Student Mentoring}
 
 \noindent
 \itemdates{2017}{Present} Naomi Robertson, Oxford University (UK): PhD thesis project co-advising.\\
-\itemdates{2018}{Present} Malik Walker, Princeton University: Undegraduate Summer Research Program and Junior Project Mentorships.
+\itemdates{2018}{Present} Malik Walker, Princeton University: Undegraduate Summer Research Program and Junior Project.
 
-%\vspace{-0.5cm}
+\subsectitle{Teaching Assistant}
+
+%\noindent
+%\itemdate{2013B} Stellar Dynamics (Leiden, Prof.~S.~Portegies Zwart)\\
+%\itemdate{2012A} Extragalactic Astrophysics (PUC, Prof.~L.~F.~Barrientos)\\
+%\itemdate{2011A} Extragalactic Astrophysics (PUC, Prof.~L.~F.~Barrientos)\\
+%\itemdate{2011A} Laboratory of Thermodynamics and Kinetic Theory (PUC, Prof.~U.~Volkmann)\\
+%\itemdate{2010B} Experimental Astrophysics (PUC, Prof.~L.~F.~Barrientos)
+\noindent
+\itemdate{Leiden} Stellar dynamics\\
+\itemdate{U.\ Cat\'olica} Extragalactic astrophysics; Experimental astrophysics; Laboratory of thermodynamics and kinetic theory\\
+
+
+\pagebreak
+
+
 \sectitle{Successful Observing Proposals (as PI)}
 
 \noindent
-\emph{Gemini-South Telescope} -- 24 h for imaging and spectroscopy of massive 
+\emph{Gemini South} -- 24 h for imaging and spectroscopy of massive 
 high-redshift galaxy clusters\\
 \emph{Giant Metrewave Radio Telescope} -- 44 h to search for diffuse radio 
 emission in massive galaxy clusters\\
@@ -126,84 +102,86 @@ galaxy cluster\\
 
 \technical{Observing Experience}
 {I have spent roughly 180 hours observing in 
-optical (Gemini-South) and near-infrared (ESO-NTT) telescopes performing both 
-imaging and spectroscopy of galaxy clusters.}\\
+optical (Gemini South) and near-infrared (La Silla-2.2m) telescopes performing both 
+imaging and spectroscopy of galaxy clusters.}
 
-\vspace{-0.5cm}
-\technical{Technical skills}
-{I am an experienced \texttt{python} programmer, and I also have some experience 
+
+\sectitle{Technical skills}
+
+I am an experienced \texttt{python} programmer, and I also have some experience 
 with IRAF/PyRAF. I have written {\tt pygmos}, a Python/PyRAF pipeline to reduce 
 Gemini-GMOS spectra which is available 
 \href{https://github.com/cristobal-sifon/pygmos/}{\texttt{here}}. Other codes I 
 have written are posted at my 
-\href{https://github.com/cristobal-sifon}{\texttt{github}} page.}
+\href{https://github.com/cristobal-sifon}{\texttt{github}} page.\\
 
 
 %\sectitle{Language skills}
 %
 %{Native Spanish, fluent English, basic Dutch}
 
-\technical{Community Activity}
-{I have served as a referee for A\&A, ApJ, MNRAS, and Nature Astronomy.}
+\sectitle{Community Activity}
 
-
-\pagebreak
-%\vspace{-0.5cm}
-\sectitle{Teaching Assistant Experience}
-
-%\noindent
-%\itemdate{2013B} Stellar Dynamics (Leiden, Prof.~S.~Portegies Zwart)\\
-%\itemdate{2012A} Extragalactic Astrophysics (PUC, Prof.~L.~F.~Barrientos)\\
-%\itemdate{2011A} Extragalactic Astrophysics (PUC, Prof.~L.~F.~Barrientos)\\
-%\itemdate{2011A} Laboratory of Thermodynamics and Kinetic Theory (PUC, Prof.~U.~Volkmann)\\
-%\itemdate{2010B} Experimental Astrophysics (PUC, Prof.~L.~F.~Barrientos)
 \noindent
-\textbf{Leiden:} Stellar dynamics\\
-\textbf{U.\ Cat\'olica:} Extragalactic astrophysics; Experimental astrophysics; Laboratory of thermodynamics and kinetic theory
+I have served as a referee for A\&A, ApJ, MNRAS, and Nature Astronomy.
+
+\subsectitle{Informal courses}
+
+\noindent
+\itemdate{2016} \emph{Making Better Figures}, Universiteit Leiden, \url{http://bit.ly/2NTznxW}
+
+\subsectitle{Outreach}
+
+\noindent
+\itemdate{2018} Public Astronomical Observations in Spanish, Peyton Hall, Princeton University.\\
+\itemdate{2012} \emph{Astronomy Course for Seniors}, U.\ Cat\'olica.\\
+\itemdate{2011} \emph{Stars Night}, observation nights for elementary and middle school students in social risk organized by ESO-Santiago.\\
+\itemdate{2010} Invited talk at the ``FFG14 Almirante Latorre'' Chilean Navy ship, Valparaiso, Chile.\\
+\itemdate{2010} \emph{The Universe}, series of talks for elementary school students in social risk organized by U.\ Cat\'olica.\\
 
 
 \sectitle{Other Work Experience}
 
 \noindent
 \itemdates{2007}{2008} Ski instructor at Homewood Mountain Ski Resort in Lake Tahoe, CA. Obtained the certification as Level I ski instructor  by the Professional Ski Instructors of America (PSIA).\\
-\itemdates{2006}{2007} Lift operator at Sun Valley Resort, Sun Valley, ID.
+\itemdates{2006}{2007} Ski lift operator at Sun Valley Resort, Sun Valley, ID.\\
 
-\vspace{1cm}
+%\vspace{1cm}
+%\hline
 \hline
-\vspace{1cm}
+\vspace{0.5cm}
 
-\noindent
-{\bf\Large References}
-% \vspace{-0.6cm}
+\pagebreak
+
+
+\sectitle{References}
+
 \begin{itemize}
 %  \item 
  \item Prof.~Henk Hoekstra (\textit{PhD advisor})\\
-       Leiden Observatory\\
-       Universiteit Leiden\\
+       Leiden Observatory, Universiteit Leiden\\
        Niels Bohrweg 2, NL-2333 CA Leiden, The Netherlands\\
        Phone: +31 (71) 527 5594\\
        E-mail: \email{hoekstra@strw.leidenuniv.nl}
  \item Prof.~David N.~Spergel\\
-       Department of Astrophysical Sciences\\
-       Princeton University\\
+       Department of Astrophysical Sciences, Princeton University\\
        4 Ivy Ln, Princeton, NJ 08544, USA\\
        Phone: +1 (609) 258 3589\\
        E-mail: \email{dns@astro.princeton.edu}
  \item Prof.~John P.~Hughes\\
-       Department of Physics and Astronomy\\
-       Rutgers University\\
+       Department of Physics and Astronomy, Rutgers University\\
        136 Frelinghuysen Rd., Piscataway, NJ 08854, USA\\
        Phone: +1 (848) 445 8878\\
        E-mail: \email{jph@physics.rutgers.edu}
  \item Prof.~L.~Felipe Barrientos (\textit{MSc advisor})\\
-       Departamento de Astronom\'ia y Astrof\'isica\\
-       P. Universidad Cat\'olica de Chile\\
+       Instituto de Astrof\'isica, P. Universidad Cat\'olica de Chile\\
        Casilla 306, Santiago 22, Chile\\
+       Phone: +56 (2) 2354 4941\\
        E-mail: \email{barrientos@astro.uc.cl}
  \item Dr.~Felipe Menanteau\\
-       Department of Astronomy\\
-       University of Illinois at Urbana-Champaign\\
+       Department of Astronomy, University of Illinois at Urbana-Champaign\\
        1002 W.\ Green St., Urbana, IL 61801, USA\\
+       Phone: +1 (217) 244 6297\\
        E-mail: \email{felipe@illinois.edu}
 \end{itemize}
 

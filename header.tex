@@ -1,0 +1,54 @@
+
+\usepackage{bm}
+\usepackage{enumerate}
+\usepackage{etaremune}
+% \usepackage{fullpage}
+\usepackage{graphicx}
+\usepackage{hyperref}
+
+\addtolength{\oddsidemargin}{-.875in}
+\addtolength{\evensidemargin}{-.875in}
+\addtolength{\textwidth}{1.75in}
+\addtolength{\topmargin}{-1in}
+\addtolength{\textheight}{2in}
+
+% For links of references
+\hypersetup{colorlinks,
+  linkcolor=blue,
+  filecolor=blue,
+  urlcolor=blue,
+  citecolor=blue}
+
+\renewcommand{\familydefault}{\sfdefault}
+
+\newcommand\sectitle[1]{
+  \hline
+  \vspace{0.5cm}
+  \noindent
+  %\underline{
+    \textbf{\Large #1}
+  %}
+  \\
+  \vspace{-0.2cm}
+}
+
+\newcommand\subsectitle[1]{
+  \vspace{0.3cm}
+  \noindent
+  %\underline{
+    \textbf{\large #1}
+  %}
+  \\
+  \vspace{-0.3cm}
+}
+
+\newcommand\technical[2]{
+  \noindent
+    {\large\bf #1:} #2\\
+  }
+
+\newcommand\itemdate[1]{\textbf{[#1]}}
+\newcommand\itemdates[2]{\textbf{[#1 -- #2]}}
+\newcommand\email[1]{\href{mailto:#1}{\texttt{#1}}}
+
+
