@@ -1,9 +1,12 @@
 *~
 *.aux
+*.bbl
+*.blg
 *.log
 *.out
 *.sty
 *.backup
+*.synctex.gz
 journals.tex
 
 .DS_Store
