@@ -1,0 +1,6 @@
+Cosmology from cosmic shear power spectra with Subaru Hyper Suprime-Cam first-year data
+
+Chiaki Hikage, Masamune Oguri, Takashi Hamana, Surhud More, Rachel Mandelbaum, Masahiro Takada, Fabian Köhlinger, Hironao Miyatake, 
+Atsushi J. Nishizawa, Hiroaki Aihara, Robert Armstrong, James Bosch, Jean Coupon, Anne Ducout, Bau-Ching Hsieh, Yutaka Komiyama, François 
+Lanusse, Alexie Leauthaud, Elinor Medezinski, Sogo Mineo, Satoshi Miyazaki, Ryoma Murata, Hitoshi Murayama, Masato Shirasaki, Cristóbal 
+Sifón, Melanie Simet, Joshua Speagle, David N. Spergel, Michael A. Strauss, Naoshi Sugiyama, Masayuki Tanaka, Shiang-Yu Wang
