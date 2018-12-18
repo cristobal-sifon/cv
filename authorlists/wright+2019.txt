@@ -1,0 +1,8 @@
+KiDS+VIKING-450: A new combined optical & near-IR dataset
+for cosmology and astrophysics
+
+Angus H. Wright1; 2?, Hendrik Hildebrandt2; 1, Konrad Kuijken3, Thomas Erben1, Robert Blake4, Hugo
+Buddelmeijer3, Ami Choi5, Nicholas Cross4, Jelte T.A. de Jong6, Alastair Edge7, Carlos
+Gonzalez-Fernandez8, Eduardo Gonzalez Solares8, Aniello Grado9, Catherine Heymans4, Mike Irwin8,
+Aybuke Kupcu Yoldas8, James R. Lewis8, Robert G. Mann4, Nicola Napolitano10, Mario Radovich11, Peter
+Schneider2, Cristobal Sifon12, William Sutherland13, Eckhard Sutorius4, and Gijs A. Verdoes Kleijn

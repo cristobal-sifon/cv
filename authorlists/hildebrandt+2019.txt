@@ -1,0 +1,7 @@
+KiDS+VIKING-450: Cosmic shear tomography with optical+infrared
+data
+
+H. Hildebrandt1; 2, F. Köhlinger3, J. L. van den Busch2; 1, B. Joachimi4, C. Heymans5, A. Kannawadi6, A. H. Wright2; 1,
+M. Asgari5, C. Blake7, H. Hoekstra6, S. Joudaki8, K. Kuijken6, L. Miller8, C. B. Morrison9, T. Tröster5, A. Amon5,
+M. Archidiacono10, S. Brieden10; 11; 12, A. Choi13, J. T. A. de Jong14, T. Erben2, B. Giblin5, A. Mead15, J. A. Peacock5,
+M. Radovich16, P. Schneider2, C. Sifón17, and M. Tewes2
