@@ -1,0 +1,43 @@
+%%% ADS custom formats %%%
+% Refereed:
+% %N,\n\{\\bf "%T"\},\n%Y,\\href{\%u\}\{%q,%V,%P\}
+% arXiv:
+% %N,\n\{\\bf "%T"\},%Y,\\href{\%u\}\{%Q\}
+% 
+% New version:
+% %I,\n\{\\bf ``%T''\},\n%Y,\\href{\%u\}\{%q,%V,%P\}
+%%% or use the file $HOME/Documents/papers/authorlist.py to get the author list formatted
+%%% this way from the pdf
+
+\title{Publication list}
+
+
+\noindent
+\input{publications/intro}
+
+
+\section*{First-Author Papers}
+
+\begin{etaremune}
+    \input{publications/publist_1st}
+\end{etaremune}
+
+
+\section*{Major Contributor Papers}
+
+\begin{etaremune}
+    \input{publications/publist_major}
+\end{etaremune}
+
+
+\section*{Contributing Author Papers}
+
+\begin{etaremune}
+    \input{publications/publist_others}
+\end{etaremune}
+
+
+
+\end{document}
+
+
