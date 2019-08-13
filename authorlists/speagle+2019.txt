@@ -1,0 +1,4 @@
+Galaxy-Galaxy Lensing in HSC: Validation Tests and theImpact of Heterogeneous Spectroscopic Training Sets
+
+Joshua S. Speagle1?†, Alexie Leauthaud2, Song Huang2,Christopher P. Bradshaw2, Felipe Ardila2, Peter L. Capak3,Daniel J. 
+Eisenstein1, Daniel C. Masters4, Rachel Mandelbaum5,Surhud More6,7, Melanie Simet8,9, and Cristobal Sifon
