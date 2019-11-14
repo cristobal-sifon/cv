@@ -1,0 +1,11 @@
+The Atacama Cosmology Telescope:  Component-separated maps of CMB temperature and the thermal Sunyaev-Zel'dovich effect
+
+Mathew S. Madhavacheril,1, 2,∗J. Colin Hill,3, 4, 5Sigurd Næss,4Graeme E. Addison,6Simone Aiola,4Taylor Baildon,7Nicholas 
+Battaglia,8Rachel Bean,8J. Richard Bond,9Erminia Calabrese,10Victoria Calafut,8Steve K. Choi,8Omar Darwish,11, 7Mark J. 
+Devlin,12Joanna Dunkley,13, 2Rolando D ̈unner,14Simone Ferraro,15Patricio A. Gallardo,16Mark Halpern,17Dongwon Han,18, 4Matthew 
+Hasselfield,4Matt Hilton,19Adam D. Hincks,9Ren ́ee Hloˇzek,20, 21Shuay-Pwu Patty Ho,13Kevin M. Huffenberger,22John P. 
+Hughes,23Brian J. Koopman,24Arthur Kosowsky,25Martine Lokken,20, 9, 21Thibaut Louis,26Marius Lungu,13Amanda MacInnis,18Lo 
+̈ıcMaurin,27Jeffrey J. McMahon,7Kavilan Moodley,19Federico Nati,28Michael D. Niemack,16, 8Lyman A.Page,13Bruce Partridge,29Naomi 
+Robertson,30, 31Neelima Sehgal,18, 4Emmanuel Schaan,15AlessandroSchillaci,32Blake D. Sherwin,11, 31Crist ́obal Sif ́on,33Sara M. 
+Simon,7David N. Spergel,4, 2Suzanne T. Staggs,13Emilie R. Storer,13Alexander van Engelen,34Eve M. Vavagiakis,16Edward J. 
+Wollack,35and Zhilei Xu
