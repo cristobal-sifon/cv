@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
-import scipy
+from numpy import arange
 import sys
 
 if len(sys.argv) < 2:
@@ -43,11 +43,11 @@ print('\n')
 # assumes that each author has only one last name
 nauth = 0
 alist = ''
-numbers = scipy.arange(10)
-special = ['\xc3\x81', 'é', 'í', '\xc3\x93', 'ú', 
-					 'ä', 'ë', 'ï', 'ö', '\xc3\x9c']
+numbers = arange(10)
+special = ['\xc3\x81', 'é', 'í', '\xc3\x93', 'ú',
+           'ä', 'ë', 'ï', 'ö', '\xc3\x9c']
 changeto = [r"\'a", r"\'e", r"\'i", r"\'o", r"\'u",
-					  r'\"a', r'\"e', r'\"i', r'\"o', r'\"u']
+            '\"a', r'\"e', r'\"i', r'\"o', r'\"u']
 for line in file:
   line = line.lower()
   line = line.split(',')

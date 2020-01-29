@@ -1,0 +1,12 @@
+The Atacama Cosmology Telescope: Constraints on Cosmic Birefringence
+
+Toshiya Namikawa∗,1 Yilun Guan,2 Omar Darwish,1 Blake D. Sherwin,1 Simone Aiola,3 Nicholas Battaglia,4 James
+A. Beall,5 Daniel T. Becker,5 J. Richard Bond,6 Erminia Calabrese,7 Grace E. Chesmore,8 Steve K. Choi,9
+Crist´obal Sif´on,10 Mark J. Devlin,11 Joanna Dunkley,12, 13 Rolando D¨unner,14, 15 Anna E. Fox,5 Patricio A.
+Gallardo,16 Vera Gluscevic,17 Dongwon Han,18, 3 Matthew Hasselfield,3 Gene C. Hilton,5 Adam D. Hincks,19
+Ren´ee Hloˇzek,20, 21 Johannes Hubmayr,22 Kevin Huffenberger,23 John P. Hughes,24 Brian J. Koopman,25
+Arthur Kosowsky,2 Thibaut Louis,26 Marius Lungu,13 Amanda MacInnis,18 Mathew S. Madhavacheril,27, 12
+Maya Mallaby-Kay,8 Lo¨ıc Maurin,28 Jeffrey McMahon,29, 30, 31, 32 Kavilan Moodley,33 Sigurd Naess,3 Federico
+Nati,34 Laura B. Newburgh,35 John P. Nibarger,5 Michael D. Niemack,36, 9 Lyman A. Page,13 Frank J. Qu,1
+Naomi Robertson,37 Alessandro Schillaci,38 Neelima Sehgal,18, 3 Sara M. Simon,39 David N. Spergel,12, 3
+Suzanne T. Staggs,13 Emilie R. Storer,13 Alexander van Engelen,40 Jeff van Lanen,5 and Edward J. Wollack
