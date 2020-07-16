@@ -1,0 +1,36 @@
+ The Atacama Cosmology Telescope: A Measurement of the Cosmic Microwave Background Power Spectra at 98 and 150 GHz 
+
+Steve K. Choi1,2,3, Matthew Hasselfield4,5,6, Shuay-Pwu Patty Ho3, Brian 
+Koopman7, Marius Lungu3,8,Maximilian H. Abitbol9, Graeme E. Addison10, Peter A. 
+R. Ade11, Simone Aiola4,3, David Alonso9,Mandana Amiri12, Stefania Amodeo2, Elio 
+Angile8, Jason E. Austermann13, Taylor Baildon14, Nick Battaglia2,James A. 
+Beall13, Rachel Bean2, Daniel T. Becker13, J Richard Bond15, Sarah Marie 
+Bruno3,Erminia Calabrese11, Victoria Calafut2, Luis E. Campusano16, Felipe 
+Carrero17, Grace E. Chesmore18,Hsiao-mei Cho.19,13, Susan E. Clark20, Nicholas 
+F. Cothard21, Devin Crichton22, Kevin T. Crowley23,3,Omar Darwish24, Rahul 
+Datta10, Edward V. Denison13, Mark J. Devlin8, Cody J. Duell1, Shannon M. 
+Duff13,Adriaan J. Duivenvoorden3, Jo Dunkley3,25, Rolando D ̈unner26, Thomas 
+Essinger-Hileman27, Max Fankhanel17,Simone Ferraro28, Anna E. Fox13, Brittany 
+Fuzia29, Patricio A. Gallardo1, Vera Gluscevic30,Joseph E. Golec18, Emily 
+Grace3, Megan Gralla31, Yilun Guan32, Kirsten Hall10, Mark Halpern12,Dongwon 
+Han33, Peter Hargrave11, Shawn Henderson19, Brandon Hensley25, J. Colin 
+Hill34,4, Gene C. Hilton13,Matt Hilton22, Adam D. Hincks35, Ren ́ee Hloˇzek36,35, 
+Johannes Hubmayr13, Kevin M. Huffenberger29,John P. Hughes37, Leopoldo 
+Infante26, Kent Irwin38, Rebecca Jackson18, Jeff Klein8, Kenda Knowles22,Arthur 
+Kosowsky32, Vincent Lakey29, Dale Li19,13, Yaqiong Li3, Zack Li25, Martine 
+Lokken35,15, Thibaut Louis39,Amanda MacInnis33, Mathew Madhavacheril40, Felipe 
+Maldonado29, Maya Mallaby-Kay41, Danica Marsden8,Lo ̈ıc Maurin42,26, Jeff 
+McMahon43,41,18,44,14, Felipe Menanteau45,46, Kavilan Moodley22, Tim 
+Morton30,Sigurd Naess4, Toshiya Namikawa24, Federico Nati47,8, Laura Newburgh7, 
+John P. Nibarger13,Andrina Nicola25, Michael D. Niemack1,2, Michael R. Nolta15, 
+John Orlowski-Sherer8, Lyman A. Page3,Christine G. Pappas13, Bruce Partridge48, 
+Phumlani Phakathi22, Heather Prince25, Roberto Puddu26,Frank J. Qu24, Jesus 
+Rivera37, Naomi Robertson49, Felipe Rojas26,17, Maria Salatino38,50, Emmanuel 
+Schaan28,Alessandro Schillaci51, Benjamin L. Schmitt8, Neelima Sehgal33, Blake 
+D. Sherwin24, Carlos Sierra18,Jon Sievers52, Cristobal Sifon53, Precious 
+Sikhosana22, Sara Simon14,54, David N. Spergel4,25,Suzanne T. Staggs3, Jason 
+Stevens1, Emilie Storer3, Dhaneshwar D. Sunder22, Eric R. Switzer27,Ben 
+Thorne55, Robert Thornton56,8, Hy Trac57, Jesse Treu58, Carole Tucker11, Leila 
+R. Vale13,Alexander Van Engelen59, Jeff Van Lanen13, Eve M. Vavagiakis1, Kasey 
+Wagoner3, Yuhan Wang3,Jonathan T. Ward8, Edward J. Wollack27, Zhilei Xu8, 
+Fernando Zago52, Ningfeng Zhu

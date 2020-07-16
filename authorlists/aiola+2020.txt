@@ -1,0 +1,36 @@
+The Atacama Cosmology Telescope: DR4 Maps and Cosmological Parameters 
+
+Simone Aiola1,2, Erminia Calabrese3, Lo ̈ıc Maurin4,5, Sigurd Naess1, Benjamin L. 
+Schmitt6,Maximilian H. Abitbol7, Graeme E. Addison8, Peter A. R. Ade3, David 
+Alonso7, Mandana Amiri9,Stefania Amodeo10, Elio Angile6, Jason E. Austermann11, 
+Taylor Baildon12, Nick Battaglia10,James A. Beall11, Rachel Bean10, Daniel T. 
+Becker11, J Richard Bond13, Sarah Marie Bruno2,Victoria Calafut10, Luis E. 
+Campusano14, Felipe Carrero15, Grace E. Chesmore16, Hsiao-mei Cho.17,11,Steve K. 
+Choi18,10,2, Susan E. Clark19, Nicholas F. Cothard20, Devin Crichton21, Kevin T. 
+Crowley22,2,Omar Darwish23, Rahul Datta8, Edward V. Denison11, Mark J. Devlin6, 
+Cody J. Duell18, Shannon M. Duff11,Adriaan J. Duivenvoorden2, Jo Dunkley2,24, 
+Rolando D ̈unner5, Thomas Essinger-Hileman25, Max Fankhanel15,Simone Ferraro26, 
+Anna E. Fox11, Brittany Fuzia27, Patricio A. Gallardo18, Vera Gluscevic28,Joseph 
+E. Golec16, Emily Grace2, Megan Gralla29, Yilun Guan30, Kirsten Hall8, Mark 
+Halpern9,Dongwon Han31, Peter Hargrave3, Matthew Hasselfield1,32,33, Jakob M. 
+Helton24, Shawn Henderson17,Brandon Hensley24, J. Colin Hill34,1, Gene C. 
+Hilton11, Matt Hilton21, Adam D. Hincks35, Ren ́ee Hloˇzek36,35,Shuay-Pwu Patty 
+Ho2, Johannes Hubmayr11, Kevin M. Huffenberger27, John P. Hughes37, Leopoldo 
+Infante5,Kent Irwin38, Rebecca Jackson16, Jeff Klein6, Kenda Knowles21, Brian 
+Koopman39, Arthur Kosowsky30,Vincent Lakey27, Dale Li17,11, Yaqiong Li2, Zack 
+Li24, Martine Lokken35,13, Thibaut Louis40, Marius Lungu2,6,Amanda MacInnis31, 
+Mathew Madhavacheril41, Felipe Maldonado27, Maya Mallaby-Kay42, Danica 
+Marsden6,Jeff McMahon43,42,16,44,12, Felipe Menanteau45,46, Kavilan Moodley21, 
+Tim Morton28, Toshiya Namikawa23,Federico Nati47,6, Laura Newburgh39, John P. 
+Nibarger11, Andrina Nicola24, Michael D. Niemack18,10,Michael R. Nolta13, John 
+Orlowski-Sherer6, Lyman A. Page2, Christine G. Pappas11, Bruce 
+Partridge48,Phumlani Phakathi21, Heather Prince24, Roberto Puddu5, Frank J. 
+Qu23, Jesus Rivera37, Naomi Robertson49,Felipe Rojas5,15, Maria Salatino38,50, 
+Emmanuel Schaan26, Alessandro Schillaci51, Neelima Sehgal31,Blake D. Sherwin23, 
+Carlos Sierra16, Jon Sievers52, Cristobal Sifon53, Precious Sikhosana21, Sara 
+Simon12,54,David N. Spergel1,24, Suzanne T. Staggs2, Jason Stevens18, Emilie 
+Storer2, Dhaneshwar D. Sunder21,Eric R. Switzer25, Ben Thorne55, Robert 
+Thornton56,6, Hy Trac57, Jesse Treu58, Carole Tucker3,Leila R. Vale11, Alexander 
+Van Engelen59, Jeff Van Lanen11, Eve M. Vavagiakis18, Kasey Wagoner2,Yuhan 
+Wang2, Jonathan T. Ward6, Edward J. Wollack25, Zhilei Xu6, Fernando Zago52, 
+Ningfeng Zhu

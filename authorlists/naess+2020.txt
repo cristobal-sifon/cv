@@ -1,0 +1,18 @@
+The Atacama Cosmology Telescope: arcminute-resolution maps of 18,000 square  degrees of the microwave sky from ACT 2008-2018 data combined with Planck
+
+Sigurd Naess∗1, Simone Aiola1, Jason E. Austermann22, Nick Battaglia20, James A. 
+Beall22,Daniel T. Becker22, Richard J. Bond35, Erminia Calabrese13, Steve K. 
+Choi19,20,Nicholas F. Cothard19, Kevin T. Crowley36, Omar Darwish37, Rahul 
+Datta21,Edward V. Denison22, Mark Devlin29, Cody J. Duell19, Shannon M. 
+Duff22,Adriaan J. Duivenvoorden3, Jo Dunkley2, Rolando D ̈unner18, Anna E. 
+Fox22,Patricio A. Gallardo19, Mark Halpern31, Dongwon Han7,1, Matthew 
+Hasselfield1, J. Colin Hill24,1,Gene C. Hilton22, Matt Hilton8, Adam D. 
+Hincks†23, Ren ́ee Hloˇzek23, Shuay-Pwu Patty Ho3,Johannes Hubmayr22, Kevin 
+Huffenberger32, John P. Hughes16, Arthur B. Kosowsky30,Thibaut Louis5, Mathew S. 
+Madhavacheril33, Jeff McMahon25,26,27,28, Kavilan Moodley15,Federico Nati14, 
+John P. Nibarger22, Michael D. Niemack19,20, Lyman Page3, Bruce Partridge4,Maria 
+Salatino17, Emmanuel Schaan11,12, Alessandro Schillaci9, Benjamin 
+Schmitt29,Blake D. Sherwin37, Neelima Sehgal7, Crist ́obal Sif ́on10, David 
+Spergel1,2, Suzanne Staggs3,Jason Stevens19, Emilie Storer3, Joel N. Ullom22, 
+Leila R. Vale22, Alexander Van Engelen34,Jeff Van Lanen22, Eve M. Vavagiakis19, 
+Edward J. Wollack6, and Zhilei Xu
