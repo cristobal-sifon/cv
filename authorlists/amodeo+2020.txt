@@ -1,0 +1,13 @@
+The Atacama Cosmology Telescope: Modelling the Gas Thermodynamics in BOSS
+CMASS galaxies from Kinematic and Thermal Sunyaev-Zel’dovich Measurements
+
+Stefania Amodeo,1, ∗ Nicholas Battaglia,1 Emmanuel Schaan,2, 3 Simone Ferraro,2, 3 Emily Moser,1 Simone Aiola,4
+Jason E. Austermann,5 James A. Beall,5 Rachel Bean,1 Daniel T. Becker,5 Richard J. Bond,6 Erminia Calabrese,7
+Victoria Calafut,1 Steve K. Choi,8, 1 Edward V. Denison,5 Mark Devlin,9 Shannon M. Duff,5 Adriaan J.
+Duivenvoorden,10 Jo Dunkley,10, 11 Rolando Dünner,12 Patricio A. Gallardo,8 Kirsten R. Hall,13 Dongwon Han,14
+J. Colin Hill,15, 4 Gene C. Hilton,5 Matt Hilton,16, 17 Renée Hložek,18, 19 Johannes Hubmayr,5 Kevin M.
+Huffenberger,20 John P. Hughes,21 Brian J. Koopman,22 Amanda MacInnis,14 Jeff McMahon,23, 24, 25, 26
+Mathew S. Madhavacheril,27 Kavilan Moodley,16, 17 Tony Mroczkowski,28 Sigurd Naess,4 Federico Nati,29 Laura B.
+Newburgh,30 Michael D. Niemack,8, 1 Lyman A. Page,31 Bruce Partridge,32 Alessandro Schillaci,33 Neelima Sehgal,14
+Cristóbal Sifón,34 David N. Spergel,4, 35 Suzanne Staggs,10 Emilie R. Storer,10 Joel N. Ullom,5 Leila R.
+Vale,5 Alexander van Engelen,36 Jeff Van Lanen,5 Eve M. Vavagiakis,8 Edward J. Wollack,37 and Zhilei Xu

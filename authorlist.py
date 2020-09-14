@@ -14,13 +14,14 @@ file = open(sys.argv[1])
 
 # words that should not be capitalized
 secondary = (
-    'a', 'about', 'an', 'and', 'around', 'at', 'between', 'by', 'for', 'from', 'in',
-    'int', 'near', 'of', 'on', 'other', 'out', 'over', 'the', 'through', 'to', 'via',
-    'with', 'without', 'z')
+    'a', 'about', 'an', 'and', 'around', 'at', 'between', 'by', 'for', 'from',
+    'in', 'int', 'near', 'of', 'on', 'other', 'out', 'over', 'the', 'through',
+    'to', 'via', 'with', 'without', 'z')
 # acronyms that should stay all upper case
 acronyms = (
-    'ACT', 'ACTPol', 'ALMA', 'ATCA', 'BAHAMAS', 'CMB', 'EAGLE', 'GAMA', 'GMRT', 'HSC',
-    'HST', 'KiDS', 'MCMC', 'PLCK', 'PSZ', 'PSZ2', 'SDSS', 'SPT', 'SZ', 'SZE')
+    'ACT', 'ACTPol', 'ALMA', 'ATCA', 'BAHAMAS', 'BOSS', 'CMASS', 'CMB',
+    'EAGLE', 'GAMA', 'GMRT', 'HSC', 'HST', 'KiDS', 'LOWZ', 'MCMC', 'PLCK',
+    'PSZ', 'PSZ2', 'SDSS', 'SPT', 'SZ', 'SZE')
 acronyms_lower = [i.lower() for i in acronyms]
 
 def format_word(word):

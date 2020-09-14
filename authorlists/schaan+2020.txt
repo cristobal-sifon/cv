@@ -1,0 +1,14 @@
+The Atacama Cosmology Telescope: Combined kinematic and thermal
+Sunyaev-Zel’dovich measurements from BOSS CMASS and LOWZ halos
+
+Emmanuel Schaan,1, 2, ∗ Simone Ferraro,1, 2 Stefania Amodeo,3 Nick Battaglia,3 Simone Aiola,4 Jason E.
+Austermann,5 James A. Beall,5 Rachel Bean,3 Daniel T. Becker,5 Richard J. Bond,6 Erminia Calabrese,7
+Victoria Calafut,3 Steve K. Choi,8, 3 Edward V. Denison,5 Mark J. Devlin,9 Shannon M. Duff,5 Adriaan
+J. Duivenvoorden,10 Jo Dunkley,10, 11 Rolando Dünner,12 Patricio A. Gallardo,8 Yilun Guan,13 Dongwon
+Han,14 J. Colin Hill,15, 4 Gene C. Hilton,5 Matt Hilton,16, 17 Renée Hložek,18, 19 Johannes Hubmayr,5 Kevin
+M. Huffenberger,20 John P. Hughes,21 Brian J. Koopman,22 Amanda MacInnis,14 Jeff McMahon,23, 24, 25, 26
+Mathew S. Madhavacheril,27 Kavilan Moodley,16, 17 Tony Mroczkowski,28 Sigurd Naess,4 Federico Nati,29
+Laura B. Newburgh,30 Michael D. Niemack,8, 3 Lyman A. Page,31 Bruce Partridge,32 Maria Salatino,33, 34
+Neelima Sehgal,14 Alessandro Schillaci,35 Cristóbal Sifón,36 Kendrick M. Smith,37 David N. Spergel,4, 38
+Suzanne Staggs,10 Emilie R. Storer,31 Hy Trac,39 Joel N. Ullom,5 Jeff Van Lanen,5 Leila R. Vale,5 Alexander
+van Engelen,40 Mariana Vargas Magaña,41 Eve M. Vavagiakis,8 Edward J. Wollack,42 and Zhilei Xu
