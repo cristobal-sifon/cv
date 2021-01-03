@@ -1,0 +1,8 @@
+MERGHERS Pilot: MeerKAT discovery of diffuse emission in ninemassive Sunyaev-Zel’dovich-selected galaxy clusters from ACT
+
+K. Knowles,1,2?D. S. Pillay,1,2S. Amodeo,3A. J. Baker,4K. Basu,5D. Crichton,6F. 
+de Gasperin,7,8M. Devlin,9C. Ferrari,10M. Hilton,1,2K. M. Huffenberger,11J. P. 
+Hughes,4B. J. Koopman,12K. Moodley,1,2T. Mroczkowski,13S. Naess,14F. Nati,15L. 
+B. Newburgh,12N. Oozeer,16,17L. Page,18B. Partridge,19C. Pfrommer,20M. 
+Salatino,21,22A. Schillaci,23C. Sifón,24O. Smirnov,25,16S. P. Sikhosana,1,2E. J. 
+Wollack,26Z. Xu
