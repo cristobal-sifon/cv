@@ -1,0 +1,11 @@
+The Atacama Cosmology Telescope: Detection of the Pairwise Kinematic
+Sunyaev-Zel’dovich Effect with SDSS DR15 Galaxies
+
+V. Calafut1, P. A. Gallardo2 , E. M. Vavagiakis2 , S. Amodeo1 , S. Aiola3 , J. E. Austermann4 , N. Battaglia1,
+E. S. Battistelli5, J. A. Beall4 , R. Bean1 , J. R. Bond6, E. Calabrese7 , S. K. Choi2,1 , N. F. Cothard8,
+M. J. Devlin9, C. J. Duell1 , S. M. Duff4 , A. J. Duivenvoorden10 , J. Dunkley10 , R. Dunner12 , S. Ferraro13,14 ,
+Y. Guan15 , J. C. Hill3,16 , G. C. Hilton4 , M. Hilton17 , R. Hložek18,19 , Z. B. Huber2, J. Hubmayr4 ,
+K. M. Huffenberger20 , J. P. Hughes21, B. J. Koopman22, A. Kosowsky15 , Y. Li2 , M. Lokken18,19,
+M. Madhavacheril23 , J. McMahon24,25,26,27 , K. Moodley17,28 , S. Naess3, F. Nati29 , L. B. Newburgh22 ,
+M. D. Niemack2,1, B. Partridge30 , E. Schaan12,13 , A. Schillaci31, C. Sifón32, D. N. Spergel3,11 ,
+S. T. Staggs10, J. N. Ullom4, L. R. Vale4 , A. Van Engelen33 , J. Van Lanen4 , E. J. Wollack34 , Z. Xu
