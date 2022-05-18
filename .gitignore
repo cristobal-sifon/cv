@@ -7,6 +7,7 @@
 *.sty
 *.backup
 *.synctex.gz
+altversions
 journals.tex
 
 .DS_Store
