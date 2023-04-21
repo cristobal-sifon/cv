@@ -62,7 +62,7 @@ print('\n')
 # assumes that each author has only one last name
 nauth = 0
 alist = ''
-numbers = arange(10)
+numbers = [str(i) for i in range(100)]
 special = ['\xc3\x81', 'é', 'í', '\xc3\x93', 'ú',
            'ä', 'ë', 'ï', 'ö', '\xc3\x9c']
 changeto = [r"\'a", r"\'e", r"\'i", r"\'o", r"\'u",
@@ -71,7 +71,13 @@ for line in file:
   line = line.lower()
   line = line.split(',')
   for auth in line:
-    au = auth.split()
+    au = auth.strip().split()
+    if len(au) <= 1:
+        continue
+    while au[-1] in numbers or au[-1] == ',':
+        if len(au) == 1:
+            break
+        au = au[:-1]
     if len(au) > 1:
       nauth += 1
       #print au
@@ -98,12 +104,12 @@ for line in file:
         alist += ln.capitalize() + '}, '
       else:
         alist += ln.capitalize() + ', '
-  #print(line)
 
 print(alist)
 print('{0} authors'.format(nauth))
 print()
+print(r'\item')
 print(r'{0} \etal{{{1}}}'.format(alist.split()[0][:-1], nauth))
 print(fr'\paper{{{title}}},')
-print(r'2020, \href{}{},')
+print(r'2021, \href{}{}')
 print()
