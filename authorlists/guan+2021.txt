@@ -1,0 +1,12 @@
+ The Atacama Cosmology Telescope: Microwave Intensity and Polarization Maps of the Galactic Center 
+
+Yilun Guan 1 , Susan E. Clark 2 , Brandon S. Hensley 3 , Patricio A. Gallardo 4 , Sigurd Naess5 , Cody J. Duell 4
+,
+Simone Aiola 5 , Zachary Atkins 6 , Erminia Calabrese 7 , Steve K. Choi4,8 , Nicholas F. Cothard 9 , Mark Devlin 10 ,
+Adriaan J. Duivenvoorden 6 , Jo Dunkley 3,6 , Rolando Dünner11 , Simone Ferraro 12,13 , Matthew Hasselfield5 ,
+John P. Hughes 14 , Brian J. Koopman 15 , Arthur B. Kosowsky 1 , Mathew S. Madhavacheril 16 , Jeff McMahon17,18,19,20
+,
+Federico Nati 21 , Michael D. Niemack 4,8,22 , Lyman A. Page 6 , Maria Salatino 23,24
+, Emmanuel Schaan12,13 ,
+Neelima Sehgal 25 , Cristóbal Sifón 26 , Suzanne Staggs 6 , Eve M. Vavagiakis 4
+, Edward J. Wollack 27 , and Zhilei Xu

@@ -1,0 +1,25 @@
+ The mass and galaxy distribution around SZ-selected clusters 
+
+T. Shin,1? B. Jain,1 S. Adhikari,2,3 E. J. Baxter,4 C. Chang,2,3 S. Pandey,1 A. Salcedo,5 D. H. Weinberg,5
+A. Amsellem,2 N. Battaglia,6 M. Belyakov,1 T. Dacunha,1 S. Goldstein,1 A. V. Kravtsov,2,3,7
+T. N. Varga,8,9 T. M. C. Abbott,10 M. Aguena,11,12 A. Alarcon,13 S. Allam,14 A. Amon,15
+F. Andrade-Oliveira,16,12 J. Annis,14 D. Bacon,17 K. Bechtol,18 M. R. Becker,13 G. M. Bernstein,1
+E. Bertin,19,20 S. Bocquet,9 J. R. Bond,21 D. Brooks,22 E. Buckley-Geer,3,14 D. L. Burke,15,23
+A. Campos,24 A. Carnero Rosell,25,12,26 M. Carrasco Kind,27,28 J. Carretero,29 R. Chen,30 A. Choi,5
+M. Costanzi,31,32,33 L. N. da Costa,12,34 J. DeRose,35 S. Desai,36 J. De Vicente,37 M. J. Devlin,1
+H. T. Diehl,14 J. P. Dietrich,9 S. Dodelson,24 P. Doel,22 C. Doux,1 A. Drlica-Wagner,2,3,14 K. Eckert,1
+J. Elvin-Poole,5,38 S. Everett,39 S. Ferraro,30 I. Ferrero,40 A. Fert ́e,41 B. Flaugher,14 J. Frieman,2,14
+P. A. Gallardo,42 M. Gatti,1 E. Gaztanaga,43,44 D. W. Gerdes,45,46 D. Gruen,47,15,23 R. A. Gruendl,27,28
+G. Gutierrez,14 I. Harrison,48,49 W. G. Hartley,50 J. C. Hill,51,52 M. Hilton,53,54 S. R. Hinton,55
+D. L. Hollowood,39 J. P. Hughes,56 D. J. James,57 M. Jarvis,1 T. Jeltema,39 B. J. Koopman,58
+E. Krause,59 K. Kuehn,60,61 N. Kuropatkin,14 O. Lahav,22 M. Lima,11,12 M. Lokken,62,21,63
+N. MacCrann,64 M. S. Madhavacheril,65 M. A. G. Maia,12,34 J. McCullough,15 J. McMahon,2,3,66,7
+P. Melchior,67 F. Menanteau,27,28 R. Miquel,29,68 J. J. Mohr,8,9 K. Moodley,53,54 R. Morgan,18
+J. Myles,47,15,23 F. Nati,69 A. Navarro-Alsina,70 M. D. Niemack,6,42,71 R. L. C. Ogando,12,34
+L. A. Page,72 A. Palmese,2,14 B. Partridge,73 F. Paz-Chinch ́on,27,74 M. E. S. Pereira,46 A. Pieres,12,34
+A. A. Plazas Malag ́on,67 J. Prat,2,3 M. Raveri,1 M. Rodriguez-Monroy,37 R. P. Rollins,49 A. K. Romer,75
+E. S. Rykoff,15,23 M. Salatino,47,15 C. S ́anchez,1 E. Sanchez,37 B. Santiago,12,76 V. Scarpine,14
+A. Schillaci,77 L. F. Secco,2 S. Serrano,43,44 I. Sevilla-Noarbe,37 E. Sheldon,78 B. D. Sherwin,64
+C. Sif ́on,79 M. Smith,80 M. Soares-Santos,46 S. T. Staggs,72 E. Suchyta,81 M. E. C. Swanson,27
+G. Tarle,46 D. Thomas,17 C. To,47,15,23 M. A. Troxel,30 I. Tutusaus,43,44 E. M. Vavagiakis,42 J. Weller,8,9
+E. J. Wollack,82 B. Yanny,14 B. Yin,24 Y. Zhang

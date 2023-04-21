@@ -1,0 +1,9 @@
+ Atacama Cosmology Telescope measurements of a large sample of candidates from the Massive and Distant Clusters of WISE Survey. Sunyaev-Zeldovich effect confirmation of MaDCoWS candidates using ACT 
+
+John Orlowski-Scherer1, Luca Di Mascolo2, 3, 4, 5, Tanay Bhandarkar1, Alex Manduca1, Tony Mroczkowski6, Stefania
+Amodeo7, Nick Battaglia7, Mark Brodwin8, Steve K. Choi7, 9 Mark Devlin1, Simon Dicker1, Jo Dunkley10, 11, Anthony
+H. Gonzalez12, Dongwon Han13, Matt Hilton14, 15, Kevin Huffenberger16 John P. Hughes17, Amanda MacInnis13,
+Kenda Knowles18, Brian J. Koopman19, Ian Lowe1, Kavilan Moodley14, 15, Federico Nati20, Michael D. Niemack7, 9, 21
+Lyman A. Page11 Bruce Partridge22, Charles Romero1, Maria Salatino23, 24 Alessandro Schillaci25, Neelima Sehgal14,
+Cristóbal Sifón26 Suzanne Staggs11, S. A. Stanford27, Robert Thornton1, 28, Eve M. Vavagiakis7, Edward J. Wollack29,
+Zhilei Xu1, 30, and Ningfeng Zhu

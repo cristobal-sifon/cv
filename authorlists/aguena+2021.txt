@@ -1,0 +1,7 @@
+CLMM: a LSST-DESC Cluster weak Lensing Mass Modeling
+library for cosmology
+
+M. Aguena,1,2 C. Avestruz,3,4?, C. Combet,5† S. Fu,6 R. Herbonnet,7 A.I. Malz,8‡ M. Penna-Lima,9,1
+M. Ricci,2 S. D. P. Vitenti,10,1 L. Baumont,7 H. Fan,7 M. Fong,11 M. Ho,12 M. Kirby,13 C. Payerne,5
+D. Boutigny,2 B. Lee,14 B. Liu,6 T. McClintock,15 H. Miyatake,16,17,18 C. Sif ́on,19 A. von der Linden,7
+H. Wu,20 and M. Yoon
