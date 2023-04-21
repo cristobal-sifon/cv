@@ -1,0 +1,14 @@
+The Atacama Cosmology Telescope: Summary of DR4 and DR5 Data Products and
+Data Access
+
+Maya Mallaby-Kay1 , Zachary Atkins2 , Simone Aiola3 , Stefania Amodeo4 , Jason E. Austermann 5, James A. Beall5,
+5 6 7 8 4,9 10Daniel T. Becker , J. Richard Bond , Erminia Calabrese , Grace E. Chesmore , Steve K. Choi , Kevin T. Crowley ,
+11 5 12 5 2 2,13Omar Darwish , Edward V. Denison , Mark J. Devlin , Shannon M. Duff , Adriaan J. Duivenvoorden , Jo Dunkley ,
+14 15 9 8 16 17Simone Ferraro , Kyra Fichman , Patricio A. Gallardo , Joseph E. Golec , Yilun Guan , Dongwon Han ,
+3 18,19 5 20,21 22,23 5Matthew Hasselfield , J. Colin Hill , Gene C. Hilton , Matt Hilton , Renée Hložek , Johannes Hubmayr ,
+24 25 26 27 17Kevin M. Huffenberger , John P. Hughes , Brian J. Koopman , Thibaut Louis , Amanda MacInnis ,
+28 1,8,29,30 20,21 3 11Mathew S. Madhavacheril , Jeff McMahon , Kavilan Moodley , Sigurd Naess , Toshiya Namikawa ,
+31 26 5 4,9 2 32,33Federico Nati , Laura B. Newburgh , John P. Nibarger , Michael D. Niemack , Lyman A. Page , Maria Salatino ,
+14,34 35 17 11 36 15Emmanuel Schaan , Alessandro Schillaci , Neelima Sehgal , Blake D. Sherwin , Cristóbal Sifón , Sara Simon ,
+Suzanne T. Staggs2 , Emilie R. Storer2, Joel N. Ullom5, Alexander Van Engelen37, Jeff Van Lanen5, Leila R. Vale5,
+Edward J. Wollack38 , and Zhilei Xu
