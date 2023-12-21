@@ -1,0 +1,24 @@
+DES Y3 + KIDS-1000: CONSISTENT COSMOLOGY COMBINING COSMIC SHEAR SURVEYS
+
+Dark Energy Survey and Kilo-Degree Survey Collaboration:
+T. M. C. Abbott,1 M. Aguena,2 A. Alarcon,3 O. Alves,4 A. Amon,5,6 F. Andrade-Oliveira,4 M. Asgari,7 S. Avila,8 D. Bacon,9
+K. Bechtol,10 M. R. Becker,3 G. M. Bernstein,11 E. Bertin,12,13 M. Bilicki,14 J. Blazek,15 S. Bocquet,16 D. Brooks,17
+P. Burger,18 D. L. Burke,19,20 H. Camacho,21,2 A. Campos,22 A. Carnero Rosell,23,2,24 M. Carrasco Kind,25,26 J. Carretero,8
+F. J. Castander,27,28 R. Cawthon,29 C. Chang,30,31 R. Chen,32 A. Choi,33 C. Conselice,34,35 J. Cordero,34 M. Crocce,27,28
+L. N. da Costa,2 M. E. da Silva Pereira,36 R. Dalal,37 C. Davis,19 T. M. Davis,38 J. T. A. de Jong,39,40 J. DeRose,41 S. Desai,42
+H. T. Diehl,43 S. Dodelson,22,44 P. Doel,17 C. Doux,11,45 A. Drlica-Wagner,30,43,31 A. Dvornik,46 K. Eckert,11 T. F. Eifler,47,48
+J. Elvin-Poole,49 S. Everett,48 X. Fang,50,47 I. Ferrero,51 A. Ferté,20 B. Flaugher,43 O. Friedrich,6 J. Frieman,43,31
+J. García-Bellido,52 M. Gatti,11 G. Giannini,8 B. Giblin,53,54 D. Gruen,16 R. A. Gruendl,25,26 G. Gutierrez,43 I. Harrison,55
+W. G. Hartley,56 K. Herner,43 C. Heymans,54,46 H. Hildebrandt,46 S. R. Hinton,38 H. Hoekstra,39 D. L. Hollowood,57
+K. Honscheid,58,59 H. Huang,47,60 E. M. Huff,48 D. Huterer,4 D. J. James,61 M. Jarvis,11 N. Jeffrey,17 T. Jeltema,57
+B. Joachimi,62 S. Joudaki,49 A. Kannawadi,63 E. Krause,47 K. Kuehn,64,65 K. Kuijken,39 N. Kuropatkin,43 O. Lahav,17
+P.-F. Leget,19 P. Lemos,66,67,68,69 S.-S. Li,39 X. Li,70,71 A. R. Liddle,72 M. Lima,73,2 C. -A Lin,46,74 H. Lin,43 N. MacCrann,75
+C. Mahony,46 J. L. Marshall,76 J. McCullough,19 J. Mena-Fernández,77 F. Menanteau,25,26 R. Miquel,78,8 J. J. Mohr,79,16
+J. Muir,80 J. Myles,81,19,20 N. Napolitano,82 A. Navarro-Alsina,83 R. L. C. Ogando,84 A. Palmese,22 S. Pandey,11 Y. Park,85
+M. Paterno,43 J. A. Peacock,54 D. Petravick,25 A. Pieres,2 A. A. Plazas Malagón,19,20 A. Porredon,58,59,54 J. Prat,30,31
+M. Radovich,86 M. Raveri,87 R. Reischke,46 N. C. Robertson,54 R. P. Rollins,34 A. K. Romer,88 A. Roodman,19,20
+E. S. Rykoff,19,20 S. Samuroff,15 C. Sánchez,11 E. Sanchez,77 J. Sanchez,89 P. Schneider,18 L. F. Secco,31 I. Sevilla-Noarbe,77
+H. Y. Shan,90,91,92 E. Sheldon,93 T. Shin,94 C. Sifón,95 M. Smith,96 M. Soares-Santos,4 B. Stölzner,46 E. Suchyta,97
+M. E. C. Swanson, G. Tarle,4 D. Thomas,9 C. To,58 M. A. Troxel,32 T. Tröster,98 I. Tutusaus,99 J. L. van den Busch,46
+T. N. Varga,100,79,101 A. R. Walker,1 N. Weaverdyck,4,41 R. H. Wechsler,81,19,20 J. Weller,79,101 P. Wiseman,96 A. H. Wright,46
+B. Yanny,43 B. Yin,22 M. Yoon,46 Y. Zhang,1 and J. Zuntz5

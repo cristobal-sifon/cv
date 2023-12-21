@@ -1,0 +1,31 @@
+The Atacama Cosmology Telescope: High-resolution component-separated maps
+across one-third of the sky
+
+William Coulton,1 Mathew S. Madhavacheril,2, 3 Adriaan J. Duivenvoorden,1, 4 J. Colin Hill,5, 1
+Irene Abril-Cabezas,6, 7 Peter A. R. Ade,8 Simone Aiola,1, 4 Tommy Alford,9 Mandana Amiri,10 Stefania Amodeo,11
+Rui An,12 Zachary Atkins,4 Jason E. Austermann,13 Nicholas Battaglia,14 Elia Stefano Battistelli,15
+James A. Beall,13 Rachel Bean,14 Benjamin Beringue,8 Tanay Bhandarkar,2 Emily Biermann,16 Boris Bolliet,6, 7
+J Richard Bond,17 Hongbo Cai,16 Erminia Calabrese,8 Victoria Calafut,17 Valentina Capalbo,15 Felipe Carrero,18
+Grace E. Chesmore,9 Hsiao-mei Cho,19, 13 Steve K. Choi,20, 14 Susan E. Clark,21, 22 Rodrigo C´ordova Rosado,23
+Nicholas F. Cothard,24 Kevin Coughlin,9 Kevin T. Crowley,25 Mark J. Devlin,2 Simon Dicker,2 Peter Doze,26
+Cody J. Duell,20 Shannon M. Duff,13 Jo Dunkley,4, 23 Rolando D¨unner,18 Valentina Fanfani,27 Max Fankhanel,28
+Gerrit Farren,6, 7 Simone Ferraro,29, 25 Rodrigo Freundt,14 Brittany Fuzia,30 Patricio A. Gallardo,9 Xavier Garrido,31
+Jahmour Givans,23 Vera Gluscevic,12 Joseph E. Golec,9 Yilun Guan,32 Mark Halpern,10 Dongwon Han,6, 7
+Matthew Hasselfield,1 Erin Healy,9, 4 Shawn Henderson,19 Brandon Hensley,23 Carlos Herv´ıas-Caimapo,18
+Gene C. Hilton,13 Matt Hilton,33, 34 Adam D. Hincks,35, 36 Ren´ee Hloˇzek,32, 35 Shuay-Pwu Patty Ho,4
+Zachary B. Huber,20 Johannes Hubmayr,13 Kevin M. Huffenberger,30 John P. Hughes,26 Kent Irwin,21
+Giovanni Isopi,15 Hidde T. Jense,8 Ben Keller,20 Joshua Kim,2 Kenda Knowles,34 Brian J. Koopman,37
+Arthur Kosowsky,16 Darby Kramer,38 Aleksandra Kusiak,5 Adrien La Posta,31 Victoria Lakey,39 Eunseong Lee,14
+Zack Li,17 Yaqiong Li,20 Michele Limon,2 Martine Lokken,35, 17, 32 Thibaut Louis,31 Marius Lungu,9
+Niall MacCrann,6, 7 Amanda MacInnis,40 Diego Maldonado,28 Felipe Maldonado,30 Maya Mallaby-Kay,41
+Gabriela A. Marques,42, 43 Joshiwa van Marrewijk,44 Fiona McCarthy,1 Jeff McMahon,43, 41, 9, 45 Yogesh Mehta,38
+Felipe Menanteau,46, 47 Kavilan Moodley,34 Thomas W. Morris,48 Tony Mroczkowski,44 Sigurd Naess,49
+Toshiya Namikawa,50, 6 Federico Nati,27 Laura Newburgh,37 Andrina Nicola,51, 23 Michael D. Niemack,20, 14
+Michael R. Nolta,17 John Orlowski-Scherer,52, 2 Lyman A. Page,4 Shivam Pandey,5 Bruce Partridge,53
+Heather Prince,26 Roberto Puddu,18 Frank J. Qu,6, 7 Federico Radiconi,15 Naomi Robertson,54 Felipe Rojas,18
+Tai Sakuma,4 Maria Salatino,21, 22 Emmanuel Schaan,19, 22 Benjamin L. Schmitt,2 Neelima Sehgal,40
+Shabbir Shaikh,38 Blake D. Sherwin,6, 7 Carlos Sierra,9 Jon Sievers,52 Crist´obal Sif´on,55 Sara Simon,42 Rita Sonka,4
+David N. Spergel,1, 23 Suzanne T. Staggs,4 Emilie Storer,52, 4 Eric R. Switzer,24 Niklas Tampier,28
+Robert Thornton,56, 2 Hy Trac,57 Jesse Treu,58 Carole Tucker,8 Joel Ullom,13 Leila R. Vale,13
+Alexander Van Engelen,38 Jeff Van Lanen,13 Cristian Vargas,18 Eve M. Vavagiakis,20 Kasey Wagoner,59, 4
+Yuhan Wang,4 Lukas Wenzl,14 Edward J. Wollack,24 Zhilei Xu,2 Fernando Zago,52 and Kaiwen Zheng

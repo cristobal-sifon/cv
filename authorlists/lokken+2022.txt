@@ -1,0 +1,31 @@
+Superclustering with the Atacama Cosmology Telescope and Dark Energy Survey. I.
+Evidence for Thermal Energy Anisotropy Using Oriented Stacking
+
+M. Lokken 1,2,3 , R. Hložek 1,3 , A. van Engelen 4 , M. Madhavacheril 5,6 , E. Baxter 7 , J. DeRose 8 , C. Doux 9 ,
+S. Pandey9 , E. S. Rykoff 10 , G. Stein 8,11 , C. To12 , T. M. C. Abbott 13
+, S. Adhikari14,15 , M. Aguena16 , S. Allam 17 ,
+F. Andrade-Oliveira 16,18
+, J. Annis17 , N. Battaglia 19 , G. M. Bernstein 9 , E. Bertin 20,21 , J. R. Bond 2 , D. Brooks 22 ,
+E. Calabrese 23
+, A. Carnero Rosell 16,24,25 , M. Carrasco Kind 26,27 , J. Carretero 28 , R. Cawthon 29 , A. Choi 30 ,
+M. Costanzi 31,32,33 , M. Crocce 34,35 , L. N. da Costa 16,36 , M. E. da Silva Pereira 37
+, J. De Vicente 38 , S. Desai 39 ,
+J. P. Dietrich 40 , P. Doel22 , J. Dunkley 41,42 , S. Everett 43
+, A. E. Evrard 37,44 , S. Ferraro 8,11 , B. Flaugher 17 ,
+P. Fosalba 34,35 , J. Frieman 15,17 , P. A. Gallardo 45 , J. García-Bellido 46 , E. Gaztanaga 34,35 , D. W. Gerdes 37,44 ,
+T. Giannantonio 47,48 , D. Gruen40 , R. A. Gruendl 26,27 , J. Gschwend 16,36 , G. Gutierrez 17 , J. C. Hill 49,50 ,
+M. Hilton 51,52 , A. D. Hincks 1 , S. R. Hinton 53 , D. L. Hollowood 43 , K. Honscheid 30,54 , B. Hoyle 40 , Z. Huang 55 ,
+J. P. Hughes56 , D. Huterer 37 , B. Jain 9
+, D. J. James57 , T. Jeltema 43 , K. Kuehn 58,59 , M. Lima 16,60
+, M. A. G. Maia 16,36 ,
+J. L. Marshall 61 , J. McMahon14,15,62,63 , P. Melchior 42 , F. Menanteau 26,27 , R. Miquel 28,64 , J. J. Mohr 40,65
+,
+K. Moodley 51,52 , R. Morgan 29 , F. Nati 66 , L. Page 41 , R. L. C. Ogando16,36 , A. Palmese 15,17 , F. Paz-Chinchón 26,47 ,
+A. A. Plazas Malagón42 , A. Pieres 16,36 , A. K. Romer 67 , E. Rozo 68 , E. Sanchez 38 , V. Scarpine 17
+, A. Schillaci 69
+,
+M. Schubnell 37 , S. Serrano 34,35 , I. Sevilla-Noarbe 38 , E. Sheldon 70 , T. Shin9
+, C. Sifón 71 , M. Smith72 ,
+M. Soares-Santos 37 , E. Suchyta 73 , M. E. C. Swanson 26 , G. Tarle 37 , D. Thomas 10,74,75 , D. L. Tucker17 ,
+T. N. Varga65,76 , J. Weller 65,76 , R. H. Wechsler 10,12,75 , R. D. Wilkinson 67
+, E. J. Wollack 77 , and Z. Xu

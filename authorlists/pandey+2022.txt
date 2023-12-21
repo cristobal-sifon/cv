@@ -1,0 +1,21 @@
+Cross-correlation of Dark Energy Survey Year 3 lensing data with ACT
+and Planck thermal Sunyaev-Zel’dovich effect observations. II.
+Modeling and constraints on halo pressure profiles
+
+S. Pandey ,1,* M. Gatti,1 E. Baxter,2 J. C. Hill,3,4 X. Fang,5 C. Doux,1 G. Giannini,6 M. Raveri, 1 J. DeRose,7 H. Huang,8
+E. Moser, 9 N. Battaglia,9 A. Alarcon,10 A. Amon,11 M. Becker,10 A. Campos,12 C. Chang,13,14 R. Chen,15 A. Choi,16
+K. Eckert,1 J. Elvin-Poole, 16,17 S. Everett,18 A. Ferte,19 I. Harrison,20,21 N. Maccrann,22 J. Mccullough,11 J. Myles,23,11,24
+A. Navarro Alsina,25 J. Prat,13,14 R. P. Rollins,21 C. Sanchez,1 T. Shin,1 M. Troxel,15 I. Tutusaus,26,27 B. Yin, 12 M. Aguena,28
+S. Allam,29 F. Andrade-Oliveira, 30,28 G. M. Bernstein,1 E. Bertin, 31,32 B. Bolliet,3 J. R. Bond,33 D. Brooks,34 E. Calabrese,35
+A. Carnero Rosell,36,28,37 M. Carrasco Kind,38,39 J. Carretero,6 R. Cawthon,40 M. Costanzi,41,42,43 M. Crocce,26,27
+L. N. da Costa,28,44 M. E. S. Pereira,45 J. De Vicente,46 S. Desai, 47 H. T. Diehl, 29 J. P. Dietrich,48 P. Doel,34 J. Dunkley,49,50
+S. Everett, 18 A. E. Evrard,51,45 S. Ferraro,52,53 I. Ferrero, 54 B. Flaugher,29 P. Fosalba,26,27 J. García-Bellido,55
+E. Gaztanaga,26,27 D. W. Gerdes,51,45 T. Giannantonio,56,57 D. Gruen,48 R. A. Gruendl,38,39 J. Gschwend,28,44 G. Gutierrez,29
+K. Herner,29 A. D. Hincks,58 S. R. Hinton,59 D. L. Hollowood,18 K. Honscheid,16,17 J. P. Hughes,60 D. Huterer,45 B. Jain,1
+D. J. James,61 T. Jeltema,18 E. Krause,5 K. Kuehn,62,63 O. Lahav, 34 M. Lima, 64,28 M. Lokken,58,33,65 M. S. Madhavacheril,66
+M. A. G. Maia,28,44 J. J. Mcmahon,13,14,67,68 P. Melchior,49 F. Menanteau,38,39 R. Miquel,69,6 J. J. Mohr,48,70 K. Moodley, 71,72
+R. Morgan,40 F. Nati,73 M. D. Niemack,9,9,74 L. Page,50 A. Palmese,29,14 F. Paz-Chinchón, 38,56 A. Pieres,28,44
+A. A. Plazas Malagón,49 M. Rodriguez-Monroy,46 A. K. Romer,75 E. Sanchez,46 V. Scarpine,29 E. Schaan,52,76
+S. Serrano, 26,27 I. Sevilla-Noarbe,46 E. Sheldon,77 B. D. Sherwin,22,57 C. Sifón,78 M. Smith,79 M. Soares-Santos,45
+D. Spergel, 4,80 E. Suchyta,81 M. E. C. Swanson,38 G. Tarle, 45 D. Thomas,82 C. To, 23,11,24 T. N. Varga, 70,83
+J. Weller,70,83 E. J. Wollack,84 and Z. Xu

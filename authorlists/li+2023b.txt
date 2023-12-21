@@ -1,0 +1,10 @@
+The Atacama Cosmology Telescope: Systematic Transient Search of 3 Day Maps
+
+Yaqiong Li1,2 , Emily Biermann 3 , Sigurd Naess4 , Simone Aiola 5 , Rui An6
+, Nicholas Battaglia 7 , Tanay Bhandarkar 8 ,
+Erminia Calabrese 9 , Steve K. Choi 1,7 , Kevin T. Crowley 10 , Mark Devlin 8 , Cody J. Duell 1 , Shannon M. Duff 11 ,
+Jo Dunkley 12,13 , Rolando Dünner14 , Patricio A. Gallardo 15 , Yilun Guan 16 , Carlos Hervías-Caimapo 14 ,
+Adam D. Hincks 16,17 , Johannes Hubmayr 11 , Kevin M. Huffenberger 18 , John P. Hughes19 , Arthur Kosowsky3 ,
+Thibaut Louis20 , Maya Mallaby-Kay 21 , Jeff McMahon 15,21,22,23,24 , Federico Nati 25 , Michael D. Niemack 1,7 ,
+John Orlowski-Scherer 26 , Lyman Page 12 , Maria Salatino 27,28 , Cristóbal Sifón 29 , Suzanne T. Staggs 12 ,
+Cristian Vargas 14 , Eve M. Vavagiakis 1 , Yuhan Wang 12 , and Edward J. Wollack

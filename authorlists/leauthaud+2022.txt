@@ -1,0 +1,21 @@
+Lensing without borders – I. A blind comparison of the amplitude of
+galaxy–galaxy lensing between independent imaging surveys
+
+A. Leauthaud ,1 ‹ A. Amon,2 ‹ S. Singh,3,4 D. Gruen ,2,5 J. U. Lange ,1,2 S. Huang ,6
+N. C. Robertson,7 T. N. Varga ,5,8 Y. Luo ,1 C. Heymans,9,10 H. Hildebrandt,10 C. Blake,11
+M. Aguena ,12,13 S. Allam,14 F. Andrade-Oliveira,13,15 J. Annis,14 E. Bertin ,16,17 S. Bhargava,18
+J. Blazek,19,20 S. L. Bridle,21 D. Brooks,22 D. L. Burke,2,23 A. Carnero Rosell ,13,24,25
+M. Carrasco Kind ,26,27 J. Carretero ,28 F. J. Castander,29,30 R. Cawthon ,31 A. Choi,32
+M. Costanzi ,33,34,35 L. N. da Costa,13,36 M. E. S. Pereira,37 C. Davis ,2 J. De Vicente ,38
+J. DeRose,4,39,40 H. T. Diehl,14 J. P. Dietrich,41 P. Doel,22 K. Eckert,42 S. Everett,40 A. E. Evrard ,43,44
+I. Ferrero ,45 B. Flaugher,14 P. Fosalba ,29,30 J. Garc´ıa-Bellido ,46 M. Gatti,42 E. Gaztanaga ,29,30
+R. A. Gruendl,26,27 J. Gschwend,13,36 W. G. Hartley,47 D. L. Hollowood ,40 K. Honscheid,32,48 B. Jain,42
+D. J. James,49 M. Jarvis,42 B. Joachimi,50 A. Kannawadi ,51 A. G. Kim ,39 E. Krause,52 K. Kuehn,53,54
+K. Kuijken,55 N. Kuropatkin,14 M. Lima,13,56 N. MacCrann ,57 M. A. G. Maia,13,36 M. Makler ,58,59
+M. March ,42 J. L. Marshall,60 P. Melchior ,6 F. Menanteau,26,27 R. Miquel,28,61 H. Miyatake ,62,63
+J. J. Mohr,8,41 B. Moraes,64 S. More,65 M. Surhud,63 R. Morgan,31 J. Myles ,2,23,66 R. L. C. Ogando ,36
+A. Palmese ,14,67 F. Paz-Chinch ´on,26,68 A. A. Plazas Malag ´on ,6 J. Prat,69 M. M. Rau ,70 J. Rhodes,71
+M. Rodriguez-Monroy ,38 A. Roodman,2,23 A. J. Ross ,32 S. Samuroff ,70 C. S ´anchez ,42
+E. Sanchez ,38 V. Scarpine,14 D.J. Schlegel,72 M. Schubnell,44 S. Serrano,29,30 I. Sevilla-Noarbe,38
+C. Sif ´on ,73 M. Smith ,74 J. S. Speagle,75,76,77 E. Suchyta ,78 G. Tarle,44 D. Thomas ,79 J. Tinker ,80
+C. To ,2,23,66 M. A. Troxel ,81 L. Van Waerbeke,82 P. Vielzeuf28 and A. H. Wright

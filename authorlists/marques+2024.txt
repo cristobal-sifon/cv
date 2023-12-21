@@ -1,0 +1,28 @@
+Cosmological constraints from the
+tomography of DES-Y3 galaxies with
+CMB lensing from ACT DR4
+
+G. A. Marques∗,1,2,3 M. S. Madhavacheril,4,5 O. Darwish,6 S.
+Shaikh,7 M. Aguena,8 O. Alves,9 S. Avila,10 D. Bacon,11
+E. J. Baxter,12 K. Bechtol,13 M. R. Becker,14 E. Bertin,15,16
+J. Blazek,58 J. Richard Bond,66 D. Brooks,17 H. Cai,18 E.
+Calabrese,37 A. Carnero Rosell,19,8,20 M. Carrasco Kind,21,22
+J. Carretero,10 R. Cawthon,23 M. Crocce,24,25 L. N. da Costa,8
+M. E. S. Pereira,26 J. De Vicente,27 S. Desai,28 H. T. Diehl,1
+P. Doel,17 C. Doux,4,29 A. Drlica-Wagner,1,3,30 J. Dunkley64,53
+J. Elvin-Poole,31 S. Everett,32 Simone Ferraro,62,63 I. Ferrero,33
+B. Flaugher,1 P. Fosalba,24,25 J. García-Bellido,34 M. Gatti,4
+G. Giannini,10,3 V. Gluscevic,35 D. Gruen,36 R. A. Gruendl,21,22
+G. Gutierrez,1 I. Harrison,37 J. Colin Hill,69 S. R. Hinton,38
+D. L. Hollowood,39 K. Honscheid,40,41 D. Huterer,9 N. Jeffrey,17 J.
+Kim,4 K. Kuehn,43,44 O. Lahav,17 P. Lemos,45,46 M. Lima,8 K. M.
+Huffenberger,2 N. MacCrann,47 J. L. Marshall,48 J.
+Mena-Fernández,27 R. Miquel,49,10 J. J. Mohr,36,50 K. Moodley,71,72
+J. Muir,51 S. Naess,33 F. Nati,67 L. A. Page,64 A. Palmese,52
+A. A. Plazas Malagón,53 A. Porredon,40,41 J. Prat,30,3 F. J. Qu,57,65
+M. Raveri,54 A. J. Ross,40 E. S. Rykoff,55,56 G. S. Farren,47,57
+S. Samuroff,58 E. Sanchez,27 M. Schubnell,9 N. Sehgal,73
+I. Sevilla-Noarbe,27 E. Sheldon,59 B. D. Sherwin,65,57 C. Sifón,70
+M. Smith,60 D. N. Spergel,63,53 S. T. Staggs,64 E. Suchyta,61
+G. Tarle,9 C. To,40 A. Van Engelen,7 N. Weaverdyck,9,62
+J. Weller,50,36 L. Wenzl,68 P. Wiseman,60 E. J. Wollack,42 B. Yanny

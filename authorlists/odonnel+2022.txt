@@ -1,0 +1,20 @@
+The Dark Energy Survey Bright Arcs Survey: Candidate Strongly Lensed Galaxy
+Systems from the Dark Energy Survey 5000 Square Degree Footprint
+
+J. H. O’Donnell 1 , R. D. Wilkinson 2 , H. T. Diehl 3 , C. Aros-Bunster 4 , K. Bechtol5 , S. Birrer 6,7 , E. J. Buckley-Geer 3,8 ,
+A. Carnero Rosell 9,10 , M. Carrasco Kind 11,12 , L. N. da Costa 9,10 , S. J. Gonzalez Lozano5 , R. A. Gruendl 11,12 ,
+M. Hilton 13,14 , H. Lin3 , K. A. Lindgren3 , J. Martin 15,16
+, A. Pieres 9,10 , E. S. Rykoff 6,17 , I. Sevilla-Noarbe 18 ,
+E. Sheldon 15 , C. Sifón 4 , D. L. Tucker3 , B. Yanny 3 , T. M. C. Abbott 19 , M. Aguena 9 , S. Allam 3,
+F. Andrade-Oliveira 9,20
+, J. Annis 3 , E. Bertin 21,22 , D. Brooks 23 , D. L. Burke6,17 , J. Carretero 24 , M. Costanzi 25,26,27 ,
+J. De Vicente 18 , S. Desai 28 , J. P. Dietrich 29 , K. Eckert 30 , S. Everett31 , I. Ferrero 32 , B. Flaugher 3 , P. Fosalba 33,34 ,
+J. Frieman 3,35 , J. García-Bellido 36 , E. Gaztanaga 33,34 , D. W. Gerdes 37,38 , D. Gruen29 , J. Gschwend9,10 ,
+M. S. S. Gill 6 , G. Gutierrez 3 , S. R. Hinton 39 , D. L. Hollowood 31 , K. Honscheid40,41 , D. J. James 42 , T. Jeltema 31 ,
+K. Kuehn 43,44 , O. Lahav23 , M. Lima 9,45 , M. A. G. Maia 9,10 , J. L. Marshall 46 , P. Melchior 47 , F. Menanteau 11,12 ,
+R. Miquel 24,48 , R. Morgan 5 , B. Nord3,8,35 , R. L. C. Ogando10 , F. Paz-Chinchón 12,49 , M. E. S. Pereira 38,50 ,
+A. A. Plazas Malagón47 , M. Rodriguez-Monroy 18 , A. K. Romer 2 , A. Roodman 6,17 , E. Sanchez 18 , V. Scarpine 3
+,
+M. Schubnell 38 , S. Serrano 33,34
+, M. Smith51 , E. Suchyta 52 , M. E. C. Swanson 12 , G. Tarle 38 , D. Thomas 53 ,
+C. To6,7,17 , and T. N. Varga

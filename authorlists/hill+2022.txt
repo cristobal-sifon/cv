@@ -1,0 +1,11 @@
+Atacama Cosmology Telescope:
+Constraints on prerecombination early dark energy
+
+J. Colin Hill ,1,2 Erminia Calabrese,3 Simone Aiola,2 Nicholas Battaglia,4 Boris Bolliet,1 Steve K. Choi,5,4 Mark J. Devlin,6
+Adriaan J. Duivenvoorden,7 Jo Dunkley,8,7 Simone Ferraro, 9,10 Patricio A. Gallardo,11 Vera Gluscevic,12
+Matthew Hasselfield, 2 Matt Hilton,13,14 Adam D. Hincks,15 Ren´ee Hložek,15,16 Brian J. Koopman,17 Arthur Kosowsky,18
+Adrien La Posta,19 Thibaut Louis,19 Mathew S. Madhavacheril,20,12 Jeff McMahon,21,11,22,23 Kavilan Moodley,13,14
+Sigurd Naess, 2 Umberto Natale,3 Federico Nati,24 Laura Newburgh,17 Michael D. Niemack,5,4,25 Lyman A. Page, 7
+Bruce Partridge,26 Frank J. Qu, 27 Maria Salatino,28,29 Alessandro Schillaci,30 Neelima Sehgal,31 Blake D. Sherwin,27,32
+Cristóbal Sifón,33 David N. Spergel, 2,8 Suzanne T. Staggs,7 Emilie R. Storer, 7 Alexander van Engelen,34
+Eve M. Vavagiakis,5 Edward J. Wollack,35 and Zhilei Xu

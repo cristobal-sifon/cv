@@ -1,0 +1,15 @@
+The Atacama Cosmology Telescope:
+measurement and analysis of 1D
+beams for DR4
+
+Marius Lungu,a Emilie R. Storer,a,∗ Matthew Hasselﬁeld,b
+Adriaan J. Duivenvoorden,a Erminia Calabrese,c
+Grace E. Chesmore,d Steve K. Choi,e,f Jo Dunkley,a,g
+Rolando Dünner,h Patricio A. Gallardo,f Joseph E. Golec,d
+Yilun Guan,i J. Colin Hill,b,j Adam D. Hincks,k
+Johannes Hubmayr,l Mathew S. Madhavacheril,m,n
+Maya Mallaby-Kay,o Jeﬀ McMahon,d,o,p,q Kavilan Moodley,r,s
+Sigurd Naess,t Federico Nati,u Michael D. Niemack,e,f,v
+Lyman A. Page,a Bruce Partridge,w Roberto Puddu,h
+Alessandro Schillaci,x Cristóbal Sifón,y Suzanne Staggs,a
+Dhaneshwar D. Sunder,r,s Edward J. Wollackz and Zhilei Xu

@@ -1,0 +1,21 @@
+Cross-correlation of Dark Energy Survey Year 3 lensing data with ACT
+and Planck thermal Sunyaev-Zel’dovich effect observations.
+I. Measurements, systematics tests, and feedback model constraints
+
+M. Gatti , 1,* S. Pandey,1 E. Baxter,2 J. C. Hill,3,4 E. Moser,5 M. Raveri, 1 X. Fang,6 J. DeRose,7 G. Giannini,8 C. Doux,1
+H. Huang,9 N. Battaglia,5 A. Alarcon,10 A. Amon,11 M. Becker,10 A. Campos,12 C. Chang,13,14 R. Chen,15 A. Choi,16
+K. Eckert,1 J. Elvin-Poole, 16,17 S. Everett,18 A. Ferte,19 I. Harrison,20,21 N. Maccrann,22 J. Mccullough,11 J. Myles,23,11,24
+A. Navarro Alsina,25 J. Prat,13,14 R. P. Rollins,21 C. Sanchez,1 T. Shin,1 M. Troxel,15 I. Tutusaus,26,27 B. Yin, 12 T. Abbott,28
+M. Aguena,29 S. Allam, 30 F. Andrade-Oliveira,31,29 J. Annis,30 G. Bernstein,1 E. Bertin,32,33 B. Bolliet,3 J. R. Bond,34
+D. Brooks,35,11,24 D. L. Burke,11,24 E. Calabrese,36 A. Carnero Rosell,37,29,38 M. Carrasco Kind,39,40 J. Carretero, 8
+R. Cawthon,41 M. Costanzi,42,43,44 M. Crocce,26,27 L. N. da Costa,29,45 M. E. da Silva Pereira,46 J. De Vicente,47 S. Desai,48
+H. T. Diehl, 30 J. P. Dietrich, 49 P. Doel, 35 J. Dunkley,50,51 A. E. Evrard,52,46 S. Ferraro,53,54 I. Ferrero, 55 B. Flaugher,30
+P. Fosalba,26,27 J. Frieman,30,14 J. García-Bellido,56 E. Gaztanaga,26,27 D. W. Gerdes,52,46 T. Giannantonio, 57,58 D. Gruen,49
+R. A. Gruendl,39,40 J. Gschwend,29,45 G. Gutierrez,30 K. Herner,30 A. D. Hincks,59 S. R. Hinton,60 D. L. Hollowood,18
+K. Honscheid,16,17 J. P. Hughes,61 D. Huterer,46 B. Jain,1 D. J. James,62 E. Krause,6 K. Kuehn,63,64 N. Kuropatkin,30
+O. Lahav,35 C. Lidman,65,66 M. Lima,67,29 M. Lokken,59,34,68 M. S. Madhavacheril,69 M. A. G. Maia,29,45 J. L. Marshall,70
+J. J. Mcmahon, 71,72,73,74 P. Melchior,50 K. Moodley,75,76 J. J. Mohr,49,77 R. Morgan,41 F. Nati,78 M. D. Niemack,5,5,79
+L. Page,51 A. Palmese,30,14 F. Paz-Chinchón,39,57 A. Pieres,29,45 A. A. Plazas Malagón, 50 M. Rodriguez-Monroy,47
+A. K. Romer,80 E. Sanchez,47 V. Scarpine,30 E. Schaan,53,54 L. F. Secco, 1,14 S. Serrano,26,27 E. Sheldon,81 B. D. Sherwin,82,58
+C. Sifón,83 M. Smith,84 M. Soares-Santos,46 D. Spergel, 4,85 E. Suchyta,86 G. Tarle, 46 D. Thomas,87 C. To, 23,11,24
+D. L. Tucker,30 T. N. Varga,77,88 J. Weller,77,88 R. D. Wilkinson,80 E. J. Wollack,89 and Z. Xu

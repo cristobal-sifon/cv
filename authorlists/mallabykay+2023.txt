@@ -1,0 +1,15 @@
+Kinematic Sunyaev-Zel’dovich effect with ACT, DES, and BOSS:
+A novel hybrid estimator
+
+M. Mallaby-Kay ,1 S. Amodeo , 2 J. C. Hill ,3 M. Aguena,4 S. Allam,5 O. Alves,6 J. Annis,5 N. Battaglia ,7
+E. S. Battistelli ,8 E. J. Baxter,9 K. Bechtol,10 M. R. Becker, 11 E. Bertin,12,13 J. R. Bond,14 D. Brooks,15 E. Calabrese ,16
+A. Carnero Rosell,17,4,18 M. Carrasco Kind,19,20 J. Carretero,21 A. Choi, 22 M. Crocce,23,24 L. N. da Costa,4 M. E. S. Pereira,25
+J. De Vicente, 26 S. Desai,27 J. P. Dietrich,28 P. Doel,15 C. Doux,29,30 A. Drlica-Wagner,1,5,31 J. Dunkley ,32,33
+J. Elvin-Poole, 34 S. Everett, 35 S. Ferraro ,36 I. Ferrero,37 J. Frieman,5,31 P. A. Gallardo ,31 J. García-Bellido,38
+G. Giannini,21 D. Gruen,28 R. A. Gruendl,19,20 G. Gutierrez,5 S. R. Hinton,39 D. L. Hollowood,40 D. J. James,41
+A. Kosowsky, 42 K. Kuehn,43,44 M. Lokken,45,14,46 T. Louis ,47 J. L. Marshall,48 J. McMahon, 1,49,31,50 J. Mena-Fernández,26
+F. Menanteau, 19,20 R. Miquel,51,21 K. Moodley ,52,53 T. Mroczkowski ,54 S. Naess ,37 M. D. Niemack ,55,7
+R. L. C. Ogando,56 L. Page,32 S. Pandey,29 A. Pieres,4,56 A. A. Plazas Malagón,33 M. Raveri, 57 M. Rodriguez-Monroy,26
+E. S. Rykoff, 58,59 S. Samuroff, 60 E. Sanchez,26 E. Schaan,58,59 I. Sevilla-Noarbe, 26 E. Sheldon,61 C. Sifón ,62 M. Smith,63
+M. Soares-Santos,6 F. Sobreira,64,4 E. Suchyta,65 G. Tarle, 6 C. To,66 C. Vargas ,67 E. M. Vavagiakis, 55 N. Weaverdyck,6,36
+J. Weller,68,28 P. Wiseman,63 and B. Yanny

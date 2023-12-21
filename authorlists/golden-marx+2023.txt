@@ -1,0 +1,16 @@
+Characterizing the intracluster light over the redshift range 0.2 < z < 0.8
+in the DES-ACT overlap
+
+Jesse B. Golden-Marx ,1 ‹ Y. Zhang,2 R. L. C. Ogando ,3 S. Allam,4 D. L. Tucker,4 C. J. Miller ,5,6
+M. Hilton,7,8 B. Mutlu-Pakdil ,9 T. M. C. Abbott,10 M. Aguena ,11 O. Alves,6 F. Andrade-Oliveira,6
+J. Annis,4 D. Bacon,12 E. Bertin ,13,14 S. Bocquet,15 D. Brooks,16 D. L. Burke,17,18
+A. Carnero Rosell ,19,11,20 M. Carrasco Kind ,21,22 F. J. Castander,23,24 C. Conselice,25,26
+M. Costanzi,27,28,29 L. N. da Costa,11 M. E. S. Pereira,30 J. De Vicente ,31 S. Desai,32 P. Doel,16
+S. Everett,33 I. Ferrero ,34 B. Flaugher,4 J. Frieman,4,9 J. Garc´ıa-Bellido ,35 D. W. Gerdes,5,6
+D. Gruen ,15 R. A. Gruendl,21,22 G. Gutierrez,4 S. R. Hinton ,36 D. L. Hollowood ,37 K. Honscheid,38,39
+D. J. James,40 K. Kuehn,41,42 N. Kuropatkin,4 O. Lahav,16 J. L. Marshall,2 P. Melchior ,43
+J. Mena-Fern ´andez,31 R. Miquel,44,45 J. J. Mohr,46,15 A. Palmese ,47 F. Paz-Chinch ´on,21,48 A. Pieres ,11,3
+A. A. Plazas Malag ´on ,43 J. Prat ,49,9 M. Raveri,50 M. Rodriguez-Monroy,31 A. K. Romer,51
+E. Sanchez,31 V. Scarpine,4 I. Sevilla-Noarbe,31 C. Sif ´on ,52 M. Smith ,53 E. Suchyta ,54
+M. E. C. Swanson,21 G. Tarle,6 M. Vincenzi,12,53 N. Weaverdyck ,6,55
+and B. Yanny

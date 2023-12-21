@@ -1,0 +1,11 @@
+The Atacama Cosmology Telescope:
+limits on dark matter-baryon
+interactions from DR4 power spectra
+
+Zack Li,a,∗ Rui An,b Vera Gluscevic,b Kimberly K. Boddy,c
+J. Richard Bond,a Erminia Calabrese,d Jo Dunkley,e,f
+Patricio A. Gallardo,g Yilun Guan,h Adam Hincks,i,j
+Kevin M. Huﬀenberger,k Arthur Kosowsky,l Thibaut Louis,m
+Mathew S. Madhavacheril,n Kavilan Moodley,o,p Lyman A. Page,e
+Bruce Partridge,q Frank J. Qu,r Maria Salatino,s,t Blake Sherwin,r
+Cristóbal Sifón,u Cristian Vargasv and Edward J. Wollack
