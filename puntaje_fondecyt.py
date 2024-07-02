@@ -1,10 +1,12 @@
 # ADS query: %6.6m|%T|%Y|%c
 from argparse import ArgumentParser
+from datetime import date
 import numpy as np
 
 parser = ArgumentParser()
 parser.add_argument("filename", default="bibliografia.txt")
 parser.add_argument("-a", "--author", default="Sifón")
+parser.add_argument("-y", "--year", default=date.today().year, type=int)
 args = parser.parse_args()
 
 titles = []
@@ -20,14 +22,15 @@ with open(args.filename) as f:
     for line in f:
         authors, title, yr, cit = line.split("|")
         titles.append(title)
-        authors = [a.strip() for a in authors.replace("&", ",").split(",")]
+        authors = authors.replace("&", ",").replace("et al.", "")
+        authors = [a.strip() for a in authors.split(",")]
         if args.author in authors:
             author_idx = authors.index(args.author)
         else:
             author_idx = 6
         citations.append(int(cit))
         year.append(int(yr))
-        year_factor.append(1 / max([1, 2024 - int(yr)]))
+        year_factor.append(1 / max([1, args.year - int(yr)]))
         ci.append(year_factor[-1] * int(cit))
         li.append(idx_points[author_idx])
 ci = np.array(ci)
@@ -48,7 +51,7 @@ print()
 print(" # | Title | año | factor año | citas | l_i | c_i | puntaje | nota final")
 for i in range(pts.size):
     print(
-        f"{i+1:2d} | {titles[i][:50]:50s} | {year[i]} | {year_factor[i]:.2f} | {citations[i]:3d} | {li[i]:.2f} | {ci[i]:6.2f} | {pts[i]:.2f} | {nota[i]:5.2f}"
+        f"{i+1:2d} | {titles[i][:80]:80s} | {year[i]} | {year_factor[i]:.2f} | {citations[i]:3d} | {li[i]:.2f} | {ci[i]:6.2f} | {pts[i]:.2f} | {nota[i]:5.2f}"
     )
     if i + 1 == 10:
-        print(105 * "-")
+        print(136 * "-")
