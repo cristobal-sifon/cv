@@ -20,7 +20,11 @@ idx_points = [1, 1, 0.9, 0.7, 0.5, 0.3, 0.2]
 i = 0
 with open(args.filename) as f:
     for line in f:
-        authors, title, yr, cit = line.split("|")
+        try:
+            authors, title, yr, cit = line.split("|")
+        except ValueError as e:
+            print(f"Error parsing line: {line}")
+            raise ValueError(e)
         titles.append(title)
         authors = authors.replace("&", ",").replace("et al.", "")
         authors = [a.strip() for a in authors.split(",")]
