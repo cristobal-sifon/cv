@@ -2,6 +2,7 @@
 from argparse import ArgumentParser
 from datetime import date
 import numpy as np
+from termcolor import colored
 
 parser = ArgumentParser()
 parser.add_argument("filename", default="bibliografia.txt")
@@ -13,6 +14,7 @@ titles = []
 citations = []
 year = []
 year_factor = []
+authindex = []
 pts = []
 li = []
 ci = []
@@ -32,6 +34,8 @@ with open(args.filename) as f:
             author_idx = authors.index(args.author)
         else:
             author_idx = 6
+        print(authors, author_idx)
+        authindex.append(max(1, author_idx))
         citations.append(int(cit))
         year.append(int(yr))
         year_factor.append(1 / max([1, args.year - int(yr)]))
@@ -47,15 +51,32 @@ titles = titles[j]
 year = np.array(year)[j]
 citations = np.array(citations)[j]
 year_factor = np.array(year_factor)[j]
+authindex = np.array(authindex)[j]
 pts = pts[j]
 li = li[j]
 ci = ci[j]
 nota = 1 + 1.7 * np.cumsum(pts) ** 0.25
 print()
-print(" # | Title | año | factor año | citas | l_i | c_i | puntaje | nota final")
+print(
+    colored("#", "cyan", attrs=("bold",)),
+    "Título | año | factor año | autor |",
+    colored("l_i", "cyan", attrs=("bold",)),
+    "| citas |",
+    colored("c_i", "cyan", attrs=("bold",)),
+    "| puntaje | ",
+    colored("nota final", "magenta", attrs=("bold",)),
+    "|",
+)
 for i in range(pts.size):
     print(
-        f"{i+1:2d} | {titles[i][:80]:80s} | {year[i]} | {year_factor[i]:.2f} | {citations[i]:3d} | {li[i]:.2f} | {ci[i]:6.2f} | {pts[i]:.2f} | {nota[i]:5.2f}"
+        colored(f"{i+1:2d}", "cyan", attrs=("bold",)),
+        f"| {titles[i][:80]:80s} | {year[i]} | {year_factor[i]:.2f} | {authindex[i]} |",
+        colored(f"{li[i]:.2f}", "cyan", attrs=("bold",)),
+        f"| {citations[i]:3d} |",
+        colored(f"{ci[i]:6.2f}", "cyan", attrs=("bold",)),
+        f"| {pts[i]:.2f} |",
+        colored(f"{nota[i]:5.2f}", "magenta", attrs=("bold",)),
+        "|",
     )
     if i + 1 == 10:
         print(136 * "-")
