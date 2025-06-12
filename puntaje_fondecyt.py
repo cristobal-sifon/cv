@@ -79,4 +79,4 @@ for i in range(pts.size):
         "|",
     )
     if i + 1 == 10:
-        print(136 * "-")
+        print(142 * "-")
