@@ -34,8 +34,7 @@ with open(args.filename) as f:
             author_idx = authors.index(args.author)
         else:
             author_idx = 6
-        print(authors, author_idx)
-        authindex.append(max(1, author_idx))
+        authindex.append(author_idx)
         citations.append(int(cit))
         year.append(int(yr))
         year_factor.append(1 / max([1, args.year - int(yr)]))
@@ -58,8 +57,8 @@ ci = ci[j]
 nota = 1 + 1.7 * np.cumsum(pts) ** 0.25
 print()
 print(
-    colored("#", "cyan", attrs=("bold",)),
-    "Título | año | factor año | autor |",
+    colored(" N", "cyan", attrs=("bold",)),
+    "| Título | año | factor año | autor |",
     colored("l_i", "cyan", attrs=("bold",)),
     "| citas |",
     colored("c_i", "cyan", attrs=("bold",)),
@@ -70,7 +69,7 @@ print(
 for i in range(pts.size):
     print(
         colored(f"{i+1:2d}", "cyan", attrs=("bold",)),
-        f"| {titles[i][:80]:80s} | {year[i]} | {year_factor[i]:.2f} | {authindex[i]} |",
+        f"| {titles[i][:80]:80s} | {year[i]} | {year_factor[i]:.2f} | {authindex[i] + 1} |",
         colored(f"{li[i]:.2f}", "cyan", attrs=("bold",)),
         f"| {citations[i]:3d} |",
         colored(f"{ci[i]:6.2f}", "cyan", attrs=("bold",)),
